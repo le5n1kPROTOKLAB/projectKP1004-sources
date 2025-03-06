@@ -1,0 +1,49 @@
+plugins {
+    id 'com.android.application'
+}
+apply from: "F:\\projectMAZ\\CarSwitcherApp\\app\\keys\\init.gradle"
+
+android {
+    defaultConfig {
+        applicationId "com.example.carswitcherapp"
+        versionCode 2
+        versionName "1.2.2"
+        rootProject.ext.appName = "车辆开关"
+    }
+
+    buildTypes {
+        debug {
+            applicationIdSuffix ".debug" // Уникальный ID: com.example.carswitcherapp.debug
+            versionNameSuffix "-DEBUG"
+            debuggable true
+        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    buildFeatures {
+        viewBinding true
+    }
+
+
+}
+
+apply from: "F:\\projectMAZ\\CarSwitcherApp\\app\\keys\\common.gradle"
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.4.1'
+    implementation 'com.google.android.material:material:1.5.0'
+    implementation 'org.greenrobot:eventbus:3.1.1'
+    implementation 'com.orhanobut:logger:2.2.0'
+    implementation 'com.geyifeng.immersionbar:immersionbar:3.2.2'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+    implementation files('libs/serial_port_1.0.1_202306260944_release.aar')
+    implementation files('libs/common_ui_1.0.1_202305091532_release.aar')
+    // 与车辆服务连接相关
+    implementation files('libs/server_client_1.0.1_202403251540_release.aar')
+
+    implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.4.1'
+    implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1'
+}

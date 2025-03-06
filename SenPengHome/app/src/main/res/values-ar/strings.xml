@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"الصفحة الرئيسية"</string>
+    <string name="app_name_navigation">"التنقل"</string>
+    <string name="app_name_music">"موسيقى"</string>
+    <string name="app_name_radio">"مذياع"</string>
+    <string name="app_name_eq">"مؤثرات صوتية"</string>
+    <string name="app_name_360">"AVM"</string>
+    <string name="app_name_car_wechat">"WeChat السيارة"</string>
+    <string name="app_name_video">"فيديو"</string>
+    <string name="app_name_photo">"صورة فوتوغرافية"</string>
+    <string name="app_name_car_life">"كارلايف"</string>
+    <string name="app_name_car_play">"CarPlay"</string>
+    <string name="app_name_car_setting">"معلومات السيارات"</string>
+    <string name="app_name_settings">"اعدادات النظام"</string>
+    <string name="app_name_ai_qu">"AiQu"</string>
+    <string name="app_name_qq_music">"QQMusic"</string>
+    <string name="app_name_tingban">"تينجبان"</string>
+    <string name="app_name_ximalaya">"XiMaLaYa"</string>
+    <string name="app_name_tencent_video">"تينسنتفيديو"</string>
+    <string name="app_name_ku_wo">"كوو"</string>
+    <string name="app_name_net_browser">"متصفح"</string>
+    <string name="app_name_aux_in">"AUX IN"</string>
+    <string name="app_name_screen_saver_set">"حافظة الشاشة"</string>
+    <string name="app_name_phone">"هاتف بلوتوث"</string>
+    <string name="app_name_dvr">"DVR"</string>
+    <string name="app_name_google_play">"Google Play"</string>
+    <string name="app_name_youtube">"Youtube"</string>
+    <string name="app_name_chrome">"Chrome"</string>
+    <string name="app_name_es">"ES Browser"</string>
+    <string name="app_name_ktv">"KTV"</string>
+    <string name="app_name_android_auto">"Android Auto"</string>
+    <string name="string_set_wallpaper">"إعدادات الخلفية"</string>
+    <string name="string_setting">"ضبط..."</string>
+    <string name="string_mute">"كتم الصوت"</string>
+    <string name="string_volume">"الصوت"</string>
+</resources>

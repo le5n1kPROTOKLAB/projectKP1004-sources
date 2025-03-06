@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">车辆信息</string>
+    <string name="distribution_box_information">配电盒信息</string>
+</resources>

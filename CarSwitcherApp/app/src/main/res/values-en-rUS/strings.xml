@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">Car Switch</string>
+    <string name="in_ambient">IN-Ambient Lamp</string>
+    <string name="dome_lamp">Dome Lamp</string>
+    <string name="ex_ambient">EX-Ambient Lamp</string>
+    <string name="icm_button_up">ICMButton UP</string>
+    <string name="fcu_degas">FCU Degas</string>
+    <string name="steering_wheel_adjust">steering wheel adjust</string>
+    <string name="accelerator_interlock">Accelerator interlock</string>
+    <string name="icm_button_back">ICMButton Back</string>
+    <string name="icm_button_menu">ICMButton Menu</string>
+    <string name="ev_model">EV MODEL</string>
+    <string name="adas">ADAS</string>
+    <string name="aebs">AEBS</string>
+    <string name="icm_button_down">ICMButton Down</string>
+    <string name="volume_up">Volume +</string>
+    <string name="volume_down">Volume -</string>
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="whole_width">1280px</dimen>
+    <dimen name="temp_top">156px</dimen>
+    <dimen name="temp_left_margin">324px</dimen>
+    <dimen name="temp_text_min_width">72px</dimen>
+    <dimen name="temp_right_margin">400px</dimen>
+    <dimen name="image_view_width">1088px</dimen>
+    <dimen name="image_view_height">454px</dimen>
+    <dimen name="image_view_top_margin">216px</dimen>
+    <dimen name="icon_size">48px</dimen>
+    <dimen name="icon_left_margin">80px</dimen>
+    <dimen name="icon_top_margin">372px</dimen>
+</resources>

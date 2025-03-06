@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="CarApp" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">#50000000</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+    </style>
+</resources>

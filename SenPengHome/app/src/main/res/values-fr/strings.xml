@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"Accueil"</string>
+    <string name="app_name_navigation">"La navigation"</string>
+    <string name="app_name_music">"La musique"</string>
+    <string name="app_name_radio">"Radio"</string>
+    <string name="app_name_eq">"Effets sonores"</string>
+    <string name="app_name_360">"AVM"</string>
+    <string name="app_name_car_wechat">"Voiture WeChat"</string>
+    <string name="app_name_video">"Vidéo"</string>
+    <string name="app_name_photo">"Photo"</string>
+    <string name="app_name_car_life">"CarLife"</string>
+    <string name="app_name_car_play">"CarPlay"</string>
+    <string name="app_name_car_setting">"Informations sur la voiture"</string>
+    <string name="app_name_settings">"Les paramètres du système"</string>
+    <string name="app_name_ai_qu">"AiQu"</string>
+    <string name="app_name_qq_music">"QQMusic"</string>
+    <string name="app_name_tingban">"Tingban"</string>
+    <string name="app_name_ximalaya">"XiMaLaYa"</string>
+    <string name="app_name_tencent_video">"TencentVidéo"</string>
+    <string name="app_name_ku_wo">"KuWo"</string>
+    <string name="app_name_net_browser">"Navigateur"</string>
+    <string name="app_name_aux_in">"AUX IN"</string>
+    <string name="app_name_screen_saver_set">"Économiseur d'écran"</string>
+    <string name="app_name_phone">"Téléphone Bluetooth"</string>
+    <string name="app_name_dvr">"DVR"</string>
+    <string name="app_name_google_play">"Google Play"</string>
+    <string name="app_name_youtube">"Youtube"</string>
+    <string name="app_name_chrome">"Chrome"</string>
+    <string name="app_name_es">"ES Browser"</string>
+    <string name="app_name_ktv">"KTV"</string>
+    <string name="app_name_android_auto">"Android Auto"</string>
+    <string name="string_set_wallpaper">"Paramètres de fond d'écran"</string>
+    <string name="string_setting">"Réglage..."</string>
+    <string name="string_mute">"Muet"</string>
+    <string name="string_volume">"Le volume"</string>
+</resources>

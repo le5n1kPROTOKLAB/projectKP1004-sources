@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Thu Feb 27 15:51:18 MSK 2025
+0.base=F\:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\out
+0.path=classes.dex
+1.baseType=DIRECTORY
+count=2
+1.path=classes.dex
+0.baseType=DIRECTORY
+1.set=DEX
+1.base=F\:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\out
+0.set=DEX

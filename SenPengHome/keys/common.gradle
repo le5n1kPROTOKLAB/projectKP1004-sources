@@ -1,0 +1,73 @@
+static def releaseTime() {
+    return new Date().format("yyyyMMddHHmm", TimeZone.getDefault());
+}
+
+android {
+    signingConfigs {
+        release {
+            storeFile file('F:\\projectMAZ\\CarSwitcherApp\\app\\keys\\release.keystore')
+            storePassword 'mimami'
+            keyAlias 'release.keystore'
+            keyPassword 'mimami'
+        }
+    }
+    compileSdkVersion 32
+    defaultConfig {
+        minSdk 28
+        targetSdk 28
+        
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        debug {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_1_8
+        targetCompatibility JavaVersion.VERSION_1_8
+    }
+    applicationVariants.all { variant ->
+        variant.outputs.all {
+            // 显示app名称+当前版本号
+            def fileName = rootProject.ext.appName + "-V${variant.versionName}-V${variant.versionCode}"
+            // 如果有渠道，显示渠道名""
+            if (variant.flavorName != "") {
+                fileName = fileName + "-${variant.flavorName}"
+            }
+            // 加入打包时间
+            fileName = fileName + "-${releaseTime()}"
+            fileName = fileName + "-${variant.buildType.name}.apk"
+            outputFileName = fileName
+        }
+    }
+
+//def renameApk(variant, output) {
+//    def apkPath = output.outputFile.parent
+//    def baseName = project.archivesBaseName
+//    baseName += "-${variant.buildType.name}"
+//    // add version name and version code
+//    baseName += "-v${variant.mergedFlavor.versionName}-${variant.mergedFlavor.versionCode}"
+//    // if built on jenkins ci, add jenkins build number:
+//    def buildNumber = System.getenv('BUILD_NUMBER')
+//    if (buildNumber && buildNumber.size() > 0) {
+//        baseName += "-b${buildNumber}"
+//    }
+//    // if the variant will not be zipAligned, specify that
+//    if (!output.zipAlign) {
+//        baseName += '-unaligned'
+//    }
+//    // set the output file
+//    output.outputFile = new File(apkPath, "${baseName}.apk");
+//
+//}
+}

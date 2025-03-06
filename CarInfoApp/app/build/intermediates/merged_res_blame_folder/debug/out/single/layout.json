@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_distribution_box.xml",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\layout\\fragment_distribution_box.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_output_channel.xml",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\layout\\item_output_channel.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_tablayout.xml",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\layout\\item_tablayout.xml"
+    }
+]

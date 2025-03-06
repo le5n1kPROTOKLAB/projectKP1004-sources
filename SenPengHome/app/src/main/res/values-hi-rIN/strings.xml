@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"घर"</string>
+    <string name="app_name_navigation">"पथ प्रदर्शन"</string>
+    <string name="app_name_music">"संगीत"</string>
+    <string name="app_name_radio">"रेडियो"</string>
+    <string name="app_name_eq">"ध्वनि प्रभाव"</string>
+    <string name="app_name_360">"AVM"</string>
+    <string name="app_name_car_wechat">"कार वीचैट"</string>
+    <string name="app_name_video">"वीडियो"</string>
+    <string name="app_name_photo">"तस्वीर"</string>
+    <string name="app_name_car_life">"CarLife"</string>
+    <string name="app_name_car_play">"CarPlay"</string>
+    <string name="app_name_car_setting">"कार की घुसपैठ"</string>
+    <string name="app_name_settings">"प्रणाली व्यवस्था"</string>
+    <string name="app_name_ai_qu">"AiQu"</string>
+    <string name="app_name_qq_music">"QQMusic"</string>
+    <string name="app_name_tingban">"Tingban"</string>
+    <string name="app_name_ximalaya">"XiMaLaYa"</string>
+    <string name="app_name_tencent_video">"TencentVideo"</string>
+    <string name="app_name_ku_wo">"KuWo"</string>
+    <string name="app_name_net_browser">"ब्राउज़र"</string>
+    <string name="app_name_aux_in">"औक्स में"</string>
+    <string name="app_name_screen_saver_set">"स्क्रीन सेवर"</string>
+    <string name="app_name_phone">"ब्लूटूथ फोन"</string>
+    <string name="app_name_dvr">"DVR"</string>
+    <string name="app_name_google_play">"Google Play"</string>
+    <string name="app_name_youtube">"Youtube"</string>
+    <string name="app_name_chrome">"Chrome"</string>
+    <string name="app_name_es">"ES Browser"</string>
+    <string name="app_name_ktv">"KTV"</string>
+    <string name="app_name_android_auto">"Android Auto"</string>
+    <string name="string_set_wallpaper">"वॉलपेपर सेटिंग्स"</string>
+    <string name="string_setting">"स्थापना..."</string>
+    <string name="string_mute">"मूक"</string>
+    <string name="string_volume">"आयतन"</string>
+</resources>

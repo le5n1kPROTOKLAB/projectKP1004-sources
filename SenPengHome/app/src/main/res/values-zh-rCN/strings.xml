@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"主页"</string>
+    <string name="app_name_navigation">"谷歌导航"</string>
+    <string name="app_name_music">"音乐"</string>
+    <string name="app_name_radio">"收音"</string>
+    <string name="app_name_eq">"调音台"</string>
+    <string name="app_name_360">"倒车画面"</string>
+    <string name="app_name_car_wechat">"车载微信"</string>
+    <string name="app_name_video">"视频"</string>
+    <string name="app_name_photo">"图片"</string>
+    <string name="app_name_car_life">"CarLife"</string>
+    <string name="app_name_car_play">"CarPlay"</string>
+    <string name="app_name_car_setting">"车辆信息"</string>
+    <string name="app_name_settings">"系统设置"</string>
+    <string name="app_name_ai_qu">"爱趣听"</string>
+    <string name="app_name_qq_music">"QQ音乐"</string>
+    <string name="app_name_tingban">"听伴"</string>
+    <string name="app_name_ximalaya">"喜马拉雅"</string>
+    <string name="app_name_tencent_video">"腾讯视频"</string>
+    <string name="app_name_ku_wo">"酷我音乐"</string>
+    <string name="app_name_net_browser">"网页浏览器"</string>
+    <string name="app_name_aux_in">"AUX IN"</string>
+    <string name="app_name_screen_saver_set">"屏保设置"</string>
+    <string name="app_name_phone">"蓝牙电话"</string>
+    <string name="app_name_dvr">"行车记录仪"</string>
+    <string name="app_name_google_play">"Google市场"</string>
+    <string name="app_name_youtube">"Youtube"</string>
+    <string name="app_name_chrome">"Chrome"</string>
+    <string name="app_name_es">"ES浏览器"</string>
+    <string name="app_name_ktv">"KTV"</string>
+    <string name="app_name_CAR_SWITCH">"车辆开关"</string>
+    <string name="app_name_CAR_INFO">"车辆信息"</string>
+    <string name="app_name_air_conditioner">"空调"</string>
+    <string name="app_name_apps">"应用"</string>
+    <string name="app_name_android_auto">"Android Auto"</string>
+    <string name="string_set_wallpaper">"设置墙纸"</string>
+    <string name="string_setting">"设置中..."</string>
+    <string name="string_mute">"静音"</string>
+    <string name="string_volume">"音量"</string>
+</resources>

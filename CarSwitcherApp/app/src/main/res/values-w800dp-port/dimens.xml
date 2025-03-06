@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">24px</dimen>
+    <dimen name="main_left_margin">32px</dimen>
+    <dimen name="main_right_margin">32px</dimen>
+    <dimen name="main_top_margin">128px</dimen>
+    <dimen name="grid_width">166px</dimen>
+    <dimen name="grid_height">166px</dimen>
+    <dimen name="grid_margin">12px</dimen>
+    <dimen name="grid_icon_width">88px</dimen>
+    <dimen name="grid_icon_height">88px</dimen>
+    <dimen name="grid_icon_top_margin">4px</dimen>
+
+</resources>

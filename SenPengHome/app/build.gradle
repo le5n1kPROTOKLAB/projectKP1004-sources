@@ -1,0 +1,64 @@
+apply plugin: 'com.android.application'
+
+android {
+    signingConfigs {
+        release {
+            storeFile file('libs/release.keystore')
+            storePassword "mimami"
+            keyPassword "mimami"
+            keyAlias "release.keystore"
+        }
+    }
+    compileSdkVersion 28
+    defaultConfig {
+        applicationId "com.spd.home"
+        minSdkVersion 26
+        targetSdkVersion 28
+        versionCode 31
+        versionName "1.0.1"
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+    buildTypes {
+        debug {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            signingConfig signingConfigs.release
+        }
+    }
+    applicationVariants.all { variant ->
+        variant.outputs.all {
+            // 显示app名称+当前版本号
+            def fileName = "主页" + "-V${variant.versionName}-V${variant.versionCode}"
+            // 如果有渠道，显示渠道名""
+            if (variant.flavorName != "") {
+                fileName = fileName + "-${variant.flavorName}"
+            }
+            // 加入打包时间
+            fileName = fileName + "-${releaseTime()}"
+            fileName = fileName + "-${variant.buildType.name}.apk"
+            outputFileName = fileName
+        }
+    }
+}
+
+static def releaseTime() {
+    return new Date().format("yyyyMMddHHmm", TimeZone.getDefault());
+}
+
+dependencies {
+    implementation 'androidx.legacy:legacy-support-v4:1.0.0'
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test:runner:1.2.0'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
+    compileOnly files('libs/framework.jar')
+    implementation files('libs/radio.jar')
+    implementation files('libs/BluetoothJar.jar')
+    implementation files('libs/MediaJar.jar')
+    debugImplementation 'com.squareup.leakcanary:leakcanary-android:2.5'
+}

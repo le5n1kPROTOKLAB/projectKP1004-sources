@@ -1,0 +1,166 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.senptec.control.debug"
+4    android:sharedUserId="android.uid.system"
+5    android:versionCode="6"
+6    android:versionName="1.6.6-DEBUG" >
+7
+8    <uses-sdk
+9        android:minSdkVersion="28"
+9-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml
+10        android:targetSdkVersion="28" />
+10-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml
+11
+12    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+12-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:7:5-77
+12-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:7:22-74
+13
+14    <!-- 静默安装权限 -->
+15    <uses-permission android:name="android.permission.INSTALL_PACKAGES" />
+15-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:10:5-12:47
+15-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:11:9-59
+16    <!-- 应用卸载权限 -->
+17    <uses-permission android:name="permission.REQUEST_INSTALL_PACKAGES" />
+17-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:14:5-75
+17-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:14:22-72
+18    <uses-permission android:name="permission.REQUEST_DELETE_PACKAGES" />
+18-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:15:5-74
+18-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:15:22-71
+19    <uses-permission android:name="android.permission.DELETE_PACKAGES" />
+19-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:16:5-18:47
+19-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:17:9-58
+20
+21    <!-- 读写外部存储权限 -->
+22    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+22-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:21:5-80
+22-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:21:22-77
+23    <!-- 允许装载和卸载文件系统权限 -->
+24    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+24-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:23:5-81
+24-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:23:22-78
+25    <!-- 查询已经安装应用 -->
+26    <uses-permission android:name="android.permission.QUERY_ALL_PACKAGES" />
+26-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:25:5-26:53
+26-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:25:22-74
+27
+28    <application
+28-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:28:5-57:19
+29        android:name="com.senptec.control.MyApplication"
+29-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:29:9-38
+30        android:allowBackup="true"
+30-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:30:9-35
+31        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+31-->[androidx.core:core:1.7.0] C:\Users\lesnik\.gradle\caches\transforms-3\b9e4376e452ce4f1a2bbb1fc4b534124\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+32        android:debuggable="true"
+33        android:extractNativeLibs="false"
+34        android:icon="@mipmap/ic_launcher"
+34-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:31:9-43
+35        android:label="@string/app_name"
+35-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:32:9-41
+36        android:resizeableActivity="false"
+36-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:33:9-43
+37        android:roundIcon="@mipmap/ic_launcher_round"
+37-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:34:9-54
+38        android:supportsRtl="true" >
+38-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:35:9-35
+39        <activity
+39-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:36:9-47:20
+40            android:name="com.senptec.control.MainActivity"
+40-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:37:13-41
+41            android:exported="true"
+41-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:38:13-36
+42            android:theme="@style/CarApp" >
+42-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:39:13-42
+43            <intent-filter>
+43-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:40:13-46:29
+44                <action android:name="android.intent.action.MAIN" />
+44-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:41:17-69
+44-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:41:25-66
+45
+46                <category android:name="android.intent.category.DEFAULT" />
+46-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:43:17-76
+46-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:43:27-73
+47                <category android:name="android.intent.category.MONKEY" />
+47-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:44:17-75
+47-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:44:27-72
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:45:17-77
+48-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:45:27-74
+49            </intent-filter>
+50        </activity>
+51
+52        <service
+52-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:49:9-55:19
+53            android:name="com.senptec.control.ControlService"
+53-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:50:13-43
+54            android:exported="true" >
+54-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:51:13-36
+55            <intent-filter>
+55-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:52:13-54:29
+56                <action android:name="com.senptec.control.service" />
+56-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:53:17-70
+56-->F:\projectMAZ\ScreenControlService\app\src\main\AndroidManifest.xml:53:25-67
+57            </intent-filter>
+58        </service>
+59
+60        <receiver
+60-->[u_manager_lib_1.0.2_202401161000_release.aar] C:\Users\lesnik\.gradle\caches\transforms-3\aa38b656186197277e1f72a8a213bcf0\transformed\u_manager_lib_1.0.2_202401161000_release\AndroidManifest.xml:31:9-40:20
+61            android:name="com.septec.umanager.receiver.USBMountedStateReceiver"
+61-->[u_manager_lib_1.0.2_202401161000_release.aar] C:\Users\lesnik\.gradle\caches\transforms-3\aa38b656186197277e1f72a8a213bcf0\transformed\u_manager_lib_1.0.2_202401161000_release\AndroidManifest.xml:32:13-80
+62            android:exported="true" >
+62-->[u_manager_lib_1.0.2_202401161000_release.aar] C:\Users\lesnik\.gradle\caches\transforms-3\aa38b656186197277e1f72a8a213bcf0\transformed\u_manager_lib_1.0.2_202401161000_release\AndroidManifest.xml:33:13-36
+63            <intent-filter>
+63-->[u_manager_lib_1.0.2_202401161000_release.aar] C:\Users\lesnik\.gradle\caches\transforms-3\aa38b656186197277e1f72a8a213bcf0\transformed\u_manager_lib_1.0.2_202401161000_release\AndroidManifest.xml:34:13-39:29
+64                <action android:name="android.intent.action.MEDIA_MOUNTED" />
+64-->[u_manager_lib_1.0.2_202401161000_release.aar] C:\Users\lesnik\.gradle\caches\transforms-3\aa38b656186197277e1f72a8a213bcf0\transformed\u_manager_lib_1.0.2_202401161000_release\AndroidManifest.xml:35:17-78
+64-->[u_manager_lib_1.0.2_202401161000_release.aar] C:\Users\lesnik\.gradle\caches\transforms-3\aa38b656186197277e1f72a8a213bcf0\transformed\u_manager_lib_1.0.2_202401161000_release\AndroidManifest.xml:35:25-75
+65                <action android:name="android.intent.action.MEDIA_UNMOUNTED" />
+65-->[u_manager_lib_1.0.2_202401161000_release.aar] C:\Users\lesnik\.gradle\caches\transforms-3\aa38b656186197277e1f72a8a213bcf0\transformed\u_manager_lib_1.0.2_202401161000_release\AndroidManifest.xml:36:17-80
+65-->[u_manager_lib_1.0.2_202401161000_release.aar] C:\Users\lesnik\.gradle\caches\transforms-3\aa38b656186197277e1f72a8a213bcf0\transformed\u_manager_lib_1.0.2_202401161000_release\AndroidManifest.xml:36:25-77
+66
+67                <data android:scheme="file" />
+67-->[u_manager_lib_1.0.2_202401161000_release.aar] C:\Users\lesnik\.gradle\caches\transforms-3\aa38b656186197277e1f72a8a213bcf0\transformed\u_manager_lib_1.0.2_202401161000_release\AndroidManifest.xml:38:17-47
+67-->[u_manager_lib_1.0.2_202401161000_release.aar] C:\Users\lesnik\.gradle\caches\transforms-3\aa38b656186197277e1f72a8a213bcf0\transformed\u_manager_lib_1.0.2_202401161000_release\AndroidManifest.xml:38:23-44
+68            </intent-filter>
+69        </receiver>
+70        <receiver
+70-->[u_manager_lib_1.0.2_202401161000_release.aar] C:\Users\lesnik\.gradle\caches\transforms-3\aa38b656186197277e1f72a8a213bcf0\transformed\u_manager_lib_1.0.2_202401161000_release\AndroidManifest.xml:41:9-48:20
+71            android:name="com.septec.umanager.receiver.USBAttachedStateReceiver"
+71-->[u_manager_lib_1.0.2_202401161000_release.aar] C:\Users\lesnik\.gradle\caches\transforms-3\aa38b656186197277e1f72a8a213bcf0\transformed\u_manager_lib_1.0.2_202401161000_release\AndroidManifest.xml:42:13-81
+72            android:exported="true" >
+72-->[u_manager_lib_1.0.2_202401161000_release.aar] C:\Users\lesnik\.gradle\caches\transforms-3\aa38b656186197277e1f72a8a213bcf0\transformed\u_manager_lib_1.0.2_202401161000_release\AndroidManifest.xml:43:13-36
+73            <intent-filter>
+73-->[u_manager_lib_1.0.2_202401161000_release.aar] C:\Users\lesnik\.gradle\caches\transforms-3\aa38b656186197277e1f72a8a213bcf0\transformed\u_manager_lib_1.0.2_202401161000_release\AndroidManifest.xml:44:13-47:29
+74                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
+74-->[u_manager_lib_1.0.2_202401161000_release.aar] C:\Users\lesnik\.gradle\caches\transforms-3\aa38b656186197277e1f72a8a213bcf0\transformed\u_manager_lib_1.0.2_202401161000_release\AndroidManifest.xml:45:17-90
+74-->[u_manager_lib_1.0.2_202401161000_release.aar] C:\Users\lesnik\.gradle\caches\transforms-3\aa38b656186197277e1f72a8a213bcf0\transformed\u_manager_lib_1.0.2_202401161000_release\AndroidManifest.xml:45:25-87
+75                <action android:name="android.hardware.usb.action.USB_DEVICE_DETACHED" />
+75-->[u_manager_lib_1.0.2_202401161000_release.aar] C:\Users\lesnik\.gradle\caches\transforms-3\aa38b656186197277e1f72a8a213bcf0\transformed\u_manager_lib_1.0.2_202401161000_release\AndroidManifest.xml:46:17-90
+75-->[u_manager_lib_1.0.2_202401161000_release.aar] C:\Users\lesnik\.gradle\caches\transforms-3\aa38b656186197277e1f72a8a213bcf0\transformed\u_manager_lib_1.0.2_202401161000_release\AndroidManifest.xml:46:25-87
+76            </intent-filter>
+77        </receiver>
+78
+79        <provider
+79-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lesnik\.gradle\caches\transforms-3\2c96a293c0a835e94af1ddc4d74ff22d\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+80            android:name="androidx.startup.InitializationProvider"
+80-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lesnik\.gradle\caches\transforms-3\2c96a293c0a835e94af1ddc4d74ff22d\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+81            android:authorities="com.senptec.control.debug.androidx-startup"
+81-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lesnik\.gradle\caches\transforms-3\2c96a293c0a835e94af1ddc4d74ff22d\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+82            android:exported="false" >
+82-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lesnik\.gradle\caches\transforms-3\2c96a293c0a835e94af1ddc4d74ff22d\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+83            <meta-data
+83-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lesnik\.gradle\caches\transforms-3\2c96a293c0a835e94af1ddc4d74ff22d\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+84                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+84-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lesnik\.gradle\caches\transforms-3\2c96a293c0a835e94af1ddc4d74ff22d\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+85                android:value="androidx.startup" />
+85-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lesnik\.gradle\caches\transforms-3\2c96a293c0a835e94af1ddc4d74ff22d\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+86            <meta-data
+86-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\lesnik\.gradle\caches\transforms-3\bdba8a1b7f77d959878d5a52670cf96f\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+87                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+87-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\lesnik\.gradle\caches\transforms-3\bdba8a1b7f77d959878d5a52670cf96f\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+88                android:value="androidx.startup" />
+88-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\lesnik\.gradle\caches\transforms-3\bdba8a1b7f77d959878d5a52670cf96f\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+89        </provider>
+90    </application>
+91
+92</manifest>

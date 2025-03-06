@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"Кућа"</string>
+    <string name="app_name_navigation">"Навигација"</string>
+    <string name="app_name_music">"Музика"</string>
+    <string name="app_name_radio">"Радио"</string>
+    <string name="app_name_eq">"Звучни ефекти"</string>
+    <string name="app_name_360">"АВМ"</string>
+    <string name="app_name_car_wechat">"Цар ВеЦхат"</string>
+    <string name="app_name_video">"Видео"</string>
+    <string name="app_name_photo">"Слика"</string>
+    <string name="app_name_car_life">"ЦарЛифе"</string>
+    <string name="app_name_car_play">"ЦарПлаи"</string>
+    <string name="app_name_car_setting">"Информације о аутима"</string>
+    <string name="app_name_settings">"Подешавања система"</string>
+    <string name="app_name_ai_qu">"АиКу"</string>
+    <string name="app_name_qq_music">"ККМусиц"</string>
+    <string name="app_name_tingban">"Тингбан"</string>
+    <string name="app_name_ximalaya">"КсиМаЛаИа"</string>
+    <string name="app_name_tencent_video">"ТенцентВидео"</string>
+    <string name="app_name_ku_wo">"КуВо"</string>
+    <string name="app_name_net_browser">"Прегледач"</string>
+    <string name="app_name_aux_in">"АУКС ИН"</string>
+    <string name="app_name_screen_saver_set">"Чувар заслона"</string>
+    <string name="app_name_phone">"Блуетоотх телефон"</string>
+    <string name="app_name_dvr">"DVR"</string>
+    <string name="app_name_google_play">"Google Play"</string>
+    <string name="app_name_youtube">"Youtube"</string>
+    <string name="app_name_chrome">"Chrome"</string>
+    <string name="app_name_es">"ES Browser"</string>
+    <string name="app_name_ktv">"KTV"</string>
+    <string name="app_name_android_auto">"Android Auto"</string>
+    <string name="string_set_wallpaper">"Подешавања позадине"</string>
+    <string name="string_setting">"Подешавање..."</string>
+    <string name="string_mute">"Без звука"</string>
+    <string name="string_volume">"Запремина"</string>
+</resources>

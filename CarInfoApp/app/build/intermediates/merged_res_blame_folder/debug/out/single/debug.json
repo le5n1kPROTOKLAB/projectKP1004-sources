@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\color_rb_text_selector.xml.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\color\\rb_text_selector.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_tab_land.png.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\drawable\\bg_tab_land.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_tire_pressure_line.png.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\drawable\\tire_pressure_line.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_tire_rf.xml.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\drawable\\selector_tire_rf.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_tire_rf.png.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\drawable\\tire_rf.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_tire_lb.xml.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\drawable\\selector_tire_lb.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_tire_rf_nor.png.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\drawable\\tire_rf_nor.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\layout_item_tablayout.xml.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\layout\\item_tablayout.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_divider.xml.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\drawable\\divider.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_tire_rb.png.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\drawable\\tire_rb.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_distribution_box.xml.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\layout\\fragment_distribution_box.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_tire_lf_nor.png.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\drawable\\tire_lf_nor.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_car_model.png.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\drawable\\car_model.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_tire_rb.xml.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\drawable\\selector_tire_rb.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_tire_lf.png.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\drawable\\tire_lf.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_tire_rb_nor.png.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\drawable\\tire_rb_nor.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\layout_item_output_channel.xml.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\layout\\item_output_channel.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_tire_lb_nor.png.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\drawable\\tire_lb_nor.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_tire_lf.xml.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\drawable\\selector_tire_lf.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_tire_lb.png.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\drawable\\tire_lb.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarInfoApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_bg_tab.png.flat",
+        "source": "F:\\projectMAZ\\CarInfoApp\\app\\src\\main\\res\\drawable\\bg_tab.png"
+    }
+]

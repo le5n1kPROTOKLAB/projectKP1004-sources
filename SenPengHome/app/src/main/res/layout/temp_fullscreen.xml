@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/id_scene_view"
+    android:background="@drawable/bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.spd.custom.view.CustomDesktop
+        android:id="@+id/id_app_desktop"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal">
+
+        <com.spd.custom.view.PageGuideView
+            android:id="@+id/id_page_guide_view"
+            android:layout_width="match_parent"
+            android:layout_height="20px"
+            android:visibility="gone" />
+
+        <com.spd.custom.view.AppPagerView
+            android:id="@+id/id_app_list_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="60px"
+            android:layout_marginBottom="90px"
+            android:alpha="0"
+            android:numColumns="5"
+            android:translationY="300px"
+            android:visibility="gone" />
+
+        <LinearLayout
+            android:id="@+id/id_app_bottom_bn_group"
+            android:layout_width="fill_parent"
+            android:layout_height="140px"
+            android:layout_gravity="bottom|center"
+            android:orientation="horizontal"
+            android:translationY="10px"
+            android:visibility="gone">
+
+            <com.spd.MyLauncher.MyNormalButton
+                android:id="@+id/id_bottom_phone"
+                android:layout_width="0px"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                custom:icon_drawable="@drawable/icon_bottom_phone"
+                custom:touch_circle_radius="32" />
+
+            <com.spd.MyLauncher.MyNormalButton
+                android:id="@+id/id_bottom_eq"
+                android:layout_width="0px"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                custom:icon_drawable="@drawable/icon_bottom_eq"
+                custom:touch_circle_radius="32" />
+
+            <com.spd.MyLauncher.LeafView
+                android:id="@+id/id_leaf_icon"
+                android:layout_width="0px"
+                android:layout_height="fill_parent"
+                android:layout_weight="1" />
+
+            <com.spd.MyLauncher.MyNormalButton
+                android:id="@+id/id_bottom_settings"
+                android:layout_width="0px"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                custom:icon_drawable="@drawable/icon_bottom_settings"
+                custom:touch_circle_radius="32" />
+
+            <com.spd.MyLauncher.MyNormalButton
+                android:id="@+id/id_bottom_wallpaper"
+                android:layout_width="0px"
+                android:layout_height="fill_parent"
+                android:layout_weight="1"
+                custom:icon_drawable="@drawable/icon_bottom_wallpaper"
+                custom:touch_circle_radius="32" />
+        </LinearLayout>
+
+    </com.spd.custom.view.CustomDesktop>
+</FrameLayout>

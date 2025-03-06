@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"Ev"</string>
+    <string name="app_name_navigation">"Navigasyon"</string>
+    <string name="app_name_music">"Müzik"</string>
+    <string name="app_name_radio">"Radyo"</string>
+    <string name="app_name_eq">"Ses efektleri"</string>
+    <string name="app_name_360">"AVM"</string>
+    <string name="app_name_car_wechat">"Araba WeChat"</string>
+    <string name="app_name_video">"Video"</string>
+    <string name="app_name_photo">"Fotoğraf"</string>
+    <string name="app_name_car_life">"CarLife"</string>
+    <string name="app_name_car_play">"CarPlay"</string>
+    <string name="app_name_car_setting">"Araba bilgileri"</string>
+    <string name="app_name_settings">"Sistem ayarları"</string>
+    <string name="app_name_ai_qu">"AiQu"</string>
+    <string name="app_name_qq_music">"QQMusic"</string>
+    <string name="app_name_tingban">"Tingban"</string>
+    <string name="app_name_ximalaya">"XiMaLaYa"</string>
+    <string name="app_name_tencent_video">"TencentVideo"</string>
+    <string name="app_name_ku_wo">"KuWo"</string>
+    <string name="app_name_net_browser">"Tarayıcı"</string>
+    <string name="app_name_aux_in">"AUX GİRİŞİ"</string>
+    <string name="app_name_screen_saver_set">"Ekran koruyucusu"</string>
+    <string name="app_name_phone">"Bluetooth telefon"</string>
+    <string name="app_name_dvr">"DVR"</string>
+    <string name="app_name_google_play">"Google Play"</string>
+    <string name="app_name_youtube">"Youtube"</string>
+    <string name="app_name_chrome">"Chrome"</string>
+    <string name="app_name_es">"ES Browser"</string>
+    <string name="app_name_ktv">"KTV"</string>
+    <string name="app_name_android_auto">"Android Auto"</string>
+    <string name="string_set_wallpaper">"Duvar Kağıdı Ayarları"</string>
+    <string name="string_setting">"Ayarlanıyor ..."</string>
+    <string name="string_mute">"Sessiz"</string>
+    <string name="string_volume">"Ses"</string>
+</resources>

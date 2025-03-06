@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"Inici"</string>
+    <string name="app_name_navigation">"Navegació"</string>
+    <string name="app_name_music">"Música"</string>
+    <string name="app_name_radio">"Ràdio"</string>
+    <string name="app_name_eq">"Efectes de so"</string>
+    <string name="app_name_360">"AVM"</string>
+    <string name="app_name_car_wechat">"Coche WeChat"</string>
+    <string name="app_name_video">"Vídeo"</string>
+    <string name="app_name_photo">"foto"</string>
+    <string name="app_name_car_life">"CarLife"</string>
+    <string name="app_name_car_play">"CarPlay"</string>
+    <string name="app_name_car_setting">"Infominació del cotxe"</string>
+    <string name="app_name_settings">"Ajustos del sistema"</string>
+    <string name="app_name_ai_qu">"AiQu"</string>
+    <string name="app_name_qq_music">"QQMusic"</string>
+    <string name="app_name_tingban">"Tingban"</string>
+    <string name="app_name_ximalaya">"XiMaLaYa"</string>
+    <string name="app_name_tencent_video">"TencentVideo"</string>
+    <string name="app_name_ku_wo">"KuWo"</string>
+    <string name="app_name_net_browser">"Navegador"</string>
+    <string name="app_name_aux_in">"AUX IN"</string>
+    <string name="app_name_screen_saver_set">"Salvapantalles"</string>
+    <string name="app_name_phone">"Telèfon Bluetooth"</string>
+    <string name="app_name_dvr">"DVR"</string>
+    <string name="app_name_google_play">"Google Play"</string>
+    <string name="app_name_youtube">"Youtube"</string>
+    <string name="app_name_chrome">"Chrome"</string>
+    <string name="app_name_es">"ES Browser"</string>
+    <string name="app_name_ktv">"KTV"</string>
+    <string name="app_name_android_auto">"Android Auto"</string>
+    <string name="string_set_wallpaper">"Configuració del fons de pantalla"</string>
+    <string name="string_setting">"Configuració ..."</string>
+    <string name="string_mute">"Silenciar"</string>
+    <string name="string_volume">"Volum"</string>
+</resources>

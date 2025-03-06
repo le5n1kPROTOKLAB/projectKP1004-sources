@@ -1,0 +1,515 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr format="reference" name="coordinatorLayoutStyle"/>
+    <bool name="leak_canary_add_dynamic_shortcut">true</bool>
+    <bool name="leak_canary_add_launcher_icon">true</bool>
+    <bool name="leak_canary_allow_in_non_debuggable_build">false</bool>
+    <bool name="leak_canary_plumber_auto_install">true</bool>
+    <bool name="leak_canary_watcher_auto_install">true</bool>
+    <color name="black_overlay">#66000000</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="leak_canary_background_color">#242424</color>
+    <color name="leak_canary_class_name">#bababa</color>
+    <color name="leak_canary_count_default">#26FFCC32</color>
+    <color name="leak_canary_count_new">#FFD34C</color>
+    <color name="leak_canary_count_new_border">@color/leak_canary_yellow</color>
+    <color name="leak_canary_extra">#919191</color>
+    <color name="leak_canary_gray">#2F2F2F</color>
+    <color name="leak_canary_gray_3f">#3F3F3F</color>
+    <color name="leak_canary_gray_6f">#6f6f6f</color>
+    <color name="leak_canary_gray_darkest">#151C1F</color>
+    <color name="leak_canary_gray_darkest_25p">#40151C1F</color>
+    <color name="leak_canary_gray_darkest_40p">#66151C1F</color>
+    <color name="leak_canary_gray_light">#939CA3</color>
+    <color name="leak_canary_gray_lightest">#F2F4F5</color>
+    <color name="leak_canary_heap_app">#00ffff</color>
+    <color name="leak_canary_heap_boolean_array">#383838</color>
+    <color name="leak_canary_heap_byte_array">#e23ff7</color>
+    <color name="leak_canary_heap_char_array">#ffa500</color>
+    <color name="leak_canary_heap_class_dump">#689959</color>
+    <color name="leak_canary_heap_double_array">#4d4d4d</color>
+    <color name="leak_canary_heap_float_array">#4d4d4d</color>
+    <color name="leak_canary_heap_hprof_string">#900000</color>
+    <color name="leak_canary_heap_image">#039dff</color>
+    <color name="leak_canary_heap_instance">#72547a</color>
+    <color name="leak_canary_heap_instance_string">#ff0000</color>
+    <color name="leak_canary_heap_int_array">#797979</color>
+    <color name="leak_canary_heap_load_class">#12580f</color>
+    <color name="leak_canary_heap_long_array">#797979</color>
+    <color name="leak_canary_heap_object_array">#ffffff</color>
+    <color name="leak_canary_heap_other">#000000</color>
+    <color name="leak_canary_heap_short_array">#797979</color>
+    <color name="leak_canary_heap_stack_trace">#ffd40b</color>
+    <color name="leak_canary_heap_zygote">#000a8b</color>
+    <color name="leak_canary_help">#6a98b9</color>
+    <color name="leak_canary_leak">#be383f</color>
+    <color name="leak_canary_reference">#9976a8</color>
+    <color name="leak_canary_white">#ffffff</color>
+    <color name="leak_canary_yellow">#FFCC32</color>
+    <color name="leak_canary_yellow_button">#FFE79F</color>
+    <color name="leak_canary_yellow_button_pressed">#c4b47f</color>
+    <color name="notification_action_color_filter">#ffffffff</color>
+    <color name="notification_icon_bg_color">#ff9e9e9e</color>
+    <color name="notification_material_background_media_default_color">#ff424242</color>
+    <color name="primary_text_default_material_dark">#ffffffff</color>
+    <color name="ripple_material_light">#1f000000</color>
+    <color name="secondary_text_default_material_dark">#b3ffffff</color>
+    <color name="secondary_text_default_material_light">#8a000000</color>
+    <dimen name="app_icon_text_margin">70px</dimen>
+    <dimen name="compat_button_inset_horizontal_material">4dp</dimen>
+    <dimen name="compat_button_inset_vertical_material">6dp</dimen>
+    <dimen name="compat_button_padding_horizontal_material">8dp</dimen>
+    <dimen name="compat_button_padding_vertical_material">4dp</dimen>
+    <dimen name="compat_control_corner_material">2dp</dimen>
+    <dimen name="compat_notification_large_icon_max_height">320dp</dimen>
+    <dimen name="compat_notification_large_icon_max_width">320dp</dimen>
+    <dimen name="leak_canary_connector_center_y">24dp</dimen>
+    <dimen name="leak_canary_connector_leak_dash_gap">1dp</dimen>
+    <dimen name="leak_canary_connector_leak_dash_line">5dp</dimen>
+    <dimen name="leak_canary_connector_stroke_size">2dp</dimen>
+    <dimen name="leak_canary_connector_width">16dp</dimen>
+    <dimen name="leak_canary_more_margin_top">18dp</dimen>
+    <dimen name="leak_canary_more_size">12dp</dimen>
+    <dimen name="leak_canary_more_stroke_width">2dp</dimen>
+    <dimen name="leak_canary_row_margins">20dp</dimen>
+    <dimen name="leak_canary_row_min">48dp</dimen>
+    <dimen name="leak_canary_row_title_margin_top">14.5dp</dimen>
+    <dimen name="leak_canary_squiggly_span_amplitude">1dp</dimen>
+    <dimen name="leak_canary_squiggly_span_period_degrees">4dp</dimen>
+    <dimen name="leak_canary_squiggly_span_stroke_width">1dp</dimen>
+    <dimen name="leak_canary_toast_icon_size">64dp</dimen>
+    <dimen name="leak_canary_toast_icon_tv_padding">10dp</dimen>
+    <dimen name="notification_action_icon_size">32dp</dimen>
+    <dimen name="notification_action_text_size">13sp</dimen>
+    <dimen name="notification_big_circle_margin">12dp</dimen>
+    <dimen name="notification_content_margin_start">8dp</dimen>
+    <dimen name="notification_large_icon_height">64dp</dimen>
+    <dimen name="notification_large_icon_width">64dp</dimen>
+    <dimen name="notification_main_column_padding_top">10dp</dimen>
+    <dimen name="notification_media_narrow_margin">@dimen/notification_content_margin_start</dimen>
+    <dimen name="notification_right_icon_size">16dp</dimen>
+    <dimen name="notification_right_side_padding_top">2dp</dimen>
+    <dimen name="notification_small_icon_background_padding">3dp</dimen>
+    <dimen name="notification_small_icon_size_as_large">24dp</dimen>
+    <dimen name="notification_subtext_size">13sp</dimen>
+    <dimen name="notification_top_pad">10dp</dimen>
+    <dimen name="notification_top_pad_large_text">5dp</dimen>
+    <dimen name="page_guid_margin">110px</dimen>
+    <dimen name="subtitle_corner_radius">2dp</dimen>
+    <dimen name="subtitle_outline_width">2dp</dimen>
+    <dimen name="subtitle_shadow_offset">2dp</dimen>
+    <dimen name="subtitle_shadow_radius">2dp</dimen>
+    <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
+    <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
+    <item name="leak_canary_notification_analysis_result" type="id"/>
+    <item name="leak_canary_notification_analyzing_heap" type="id"/>
+    <item name="leak_canary_notification_dumping_heap" type="id"/>
+    <item name="leak_canary_notification_no_retained_object_on_tap" type="id"/>
+    <item name="leak_canary_notification_on_screen_exit" type="id"/>
+    <item name="leak_canary_notification_retained_objects" type="id"/>
+    <item name="leak_canary_notification_write_permission" type="id"/>
+    <item name="line1" type="id"/>
+    <item name="line3" type="id"/>
+    <item name="tag_transition_group" type="id"/>
+    <item name="tag_unhandled_key_event_manager" type="id"/>
+    <item name="tag_unhandled_key_listeners" type="id"/>
+    <item name="text" type="id"/>
+    <item name="text2" type="id"/>
+    <item name="title" type="id"/>
+    <integer name="cancel_button_image_alpha">127</integer>
+    <integer name="status_bar_notification_info_maxnum">999</integer>
+    <plurals name="leak_canary_distinct_leaks">
+    <item quantity="one">%d Distinct Leak</item>
+    <item quantity="other">%d Distinct Leaks</item>
+  </plurals>
+    <plurals name="leak_canary_group_screen_title">
+    <item quantity="one">%1$d leak at %2$s</item>
+    <item quantity="other">%1$d leaks at %2$s</item>
+  </plurals>
+    <string name="app_name">"Home"</string>
+    <string name="app_name_360">"AVM"</string>
+    <string name="app_name_CAR_INFO">"Car Info"</string>
+    <string name="app_name_CAR_SWITCH">"Car Switch"</string>
+    <string name="app_name_ai_qu">"AiQu"</string>
+    <string name="app_name_air_conditioner">"Air Conditioner"</string>
+    <string name="app_name_android_auto">"Android Auto"</string>
+    <string name="app_name_apps">"Apps"</string>
+    <string name="app_name_aux_in">"AUX IN"</string>
+    <string name="app_name_car_life">"CarLife"</string>
+    <string name="app_name_car_play">"CarPlay"</string>
+    <string name="app_name_car_setting">"Car information"</string>
+    <string name="app_name_car_wechat">"Car WeChat"</string>
+    <string name="app_name_chrome">"Chrome"</string>
+    <string name="app_name_dvr">"DVR"</string>
+    <string name="app_name_eq">"Sound effects"</string>
+    <string name="app_name_es">"ES Browser"</string>
+    <string name="app_name_google_play">"Google Play"</string>
+    <string name="app_name_ktv">"KTV"</string>
+    <string name="app_name_ku_wo">"KuWo"</string>
+    <string name="app_name_music">"Music"</string>
+    <string name="app_name_navigation">"Navigation"</string>
+    <string name="app_name_net_browser">"Browser"</string>
+    <string name="app_name_phone">"Bluetooth phone"</string>
+    <string name="app_name_photo">"Photo"</string>
+    <string name="app_name_qq_music">"QQMusic"</string>
+    <string name="app_name_radio">"Radio"</string>
+    <string name="app_name_screen_saver_set">"Screen saver"</string>
+    <string name="app_name_settings">"System settings"</string>
+    <string name="app_name_tencent_video">"TencentVideo"</string>
+    <string name="app_name_tingban">"Tingban"</string>
+    <string name="app_name_video">"Video"</string>
+    <string name="app_name_ximalaya">"XiMaLaYa"</string>
+    <string name="app_name_youtube">"Youtube"</string>
+    <string name="leak_canary_about_enable_heap_dump">Dump heap automatically</string>
+    <string name="leak_canary_about_enable_heap_dump_textOff">Disable</string>
+    <string name="leak_canary_about_enable_heap_dump_textOn">Enable</string>
+    <string name="leak_canary_about_menu">About LeakCanary</string>
+    <string name="leak_canary_about_message"><![CDATA[This is a dev extension for
+  <b>%1$s</b> (<i>%2$s</i>), automatically added by the LeakCanary library.<br><br>
+  <a href="https://github.com/square/leakcanary">LeakCanary</a> is a memory leak detection library for Android, created
+  and open sourced by <a href="https://twitter.com/Piwai">Pierre-Yves Ricau</a> at <a href="https://square.github.io">Square</a>.<br><br>
+  You can learn more about memory leaks at <a href="https://squ.re/leaks">https://squ.re/leaks</a>.<br><br>
+  We welcome contributions from the community - please do not hesitate to
+  <a href="https://github.com/square/leakcanary/issues">report an issue</a> or open a pull request!<br><br>
+]]></string>
+    <string name="leak_canary_about_title">About LeakCanary %s</string>
+    <string name="leak_canary_analysis_deleted_title">Analysis Deleted</string>
+    <string name="leak_canary_analysis_failed">Heap analysis failed</string>
+    <string name="leak_canary_analysis_success_notification">Found %1$d retained objects grouped as %2$d distinct leaks</string>
+    <string name="leak_canary_class_has_leaked">%1$s Leaked</string>
+    <string name="leak_canary_delete">Delete</string>
+    <string name="leak_canary_delete_all">Delete all</string>
+    <string name="leak_canary_delete_all_leaks_title">Are you sure you want to delete all leaks?</string>
+    <string name="leak_canary_display_activity_label">Leaks</string>
+    <string name="leak_canary_dump_heap">Dump Heap Now</string>
+    <string name="leak_canary_explore_heap_dump">Explore Heap Dump</string>
+    <string name="leak_canary_explorer_search_classes">Search classes</string>
+    <string name="leak_canary_failure_clipdata_label">LeakCanary failure stacktrace</string>
+    <string name="leak_canary_failure_copied">Stacktrace copied to clipboard</string>
+    <string name="leak_canary_generating_hq_bitmap_toast_failure_notice">Rendering HQ Bitmap, this may take a while…</string>
+    <string name="leak_canary_generating_hq_bitmap_toast_notice">Rendering HQ Bitmap, this may take a while…</string>
+    <string name="leak_canary_go_to_heap_analysis">Go to Heap Analysis</string>
+    <string name="leak_canary_group_list_time_label">Last leaked %s</string>
+    <string name="leak_canary_heap_analysis_list_screen_title">%d Heap Dumps</string>
+    <string name="leak_canary_heap_analysis_success_screen_row_time_format">Latest: %s</string>
+    <string name="leak_canary_heap_dump_disabled_by_app">LeakCanary.Config.dumpHeap is set to false</string>
+    <string name="leak_canary_heap_dump_disabled_from_ui">heap dumping disabled from LeakCanary About screen</string>
+    <string name="leak_canary_heap_dump_disabled_running_tests">test class "%s" was found in classpath</string>
+    <string name="leak_canary_heap_dump_disabled_text">LeakCanary is currently disabled: <i>%s</i>.</string>
+    <string name="leak_canary_heap_dump_enabled_text">LeakCanary is running and ready to detect memory leaks.</string>
+    <string name="leak_canary_heap_dump_not_installed_text">AppWatcher is not installed</string>
+    <string name="leak_canary_heap_dump_screen_title">Heap Dump %s</string>
+    <string name="leak_canary_help_title">Tap here to learn more</string>
+    <string name="leak_canary_import_from_title">Import From…</string>
+    <string name="leak_canary_import_hprof_file">Import Heap Dump</string>
+    <string name="leak_canary_leak_clipdata_label">LeakCanary Leak Trace</string>
+    <string name="leak_canary_leak_copied">Leak info copied to clipboard</string>
+    <string name="leak_canary_leak_missing_browser_error">No browser app installed</string>
+    <string name="leak_canary_leak_not_found">Leak not found</string>
+    <string name="leak_canary_loading_title">Loading…</string>
+    <string name="leak_canary_notification_analysing">Analyzing Heap Dump</string>
+    <string name="leak_canary_notification_channel_low">LeakCanary Low Priority</string>
+    <string name="leak_canary_notification_channel_result">LeakCanary Result</string>
+    <string name="leak_canary_notification_dumping">Dumping Heap</string>
+    <string name="leak_canary_notification_foreground_text">LeakCanary is working.</string>
+    <string name="leak_canary_notification_message">Tap for more details</string>
+    <string name="leak_canary_notification_no_retained_object_content">Tap to dismiss</string>
+    <string name="leak_canary_notification_no_retained_object_title">All retained objects were garbage collected</string>
+    <string name="leak_canary_notification_retained_debugger_attached">Waiting for debugger to detach</string>
+    <string name="leak_canary_notification_retained_dump_failed">Failed to dump heap</string>
+    <string name="leak_canary_notification_retained_dump_wait">Last heap dump was less than a minute ago</string>
+    <string name="leak_canary_notification_retained_title">%d retained objects, tap to dump heap</string>
+    <string name="leak_canary_notification_retained_visible">App visible, waiting until %d retained objects</string>
+    <string name="leak_canary_options_menu_generate_hq_bitmap">Generate HQ Bitmap</string>
+    <string name="leak_canary_options_menu_permission_toast">Please grant the External Storage Permission first, see notification…</string>
+    <string name="leak_canary_options_menu_render_heap_dump">Render Heap Dump</string>
+    <string name="leak_canary_permission_not_granted">Please grant external storage permission, otherwise memory leaks will not be detected.</string>
+    <string name="leak_canary_permission_notification_text">Click to enable storage permission for %s.</string>
+    <string name="leak_canary_permission_notification_title">Leak detected, need permission</string>
+    <string name="leak_canary_share_heap_dump_bitmap_screen_title">Share Heap Dump Bitmap</string>
+    <string name="leak_canary_share_with">Share with…</string>
+    <string name="leak_canary_shortcut_label">Leaks</string>
+    <string name="leak_canary_stackoverflow_share">Share Leak On Stack Overflow</string>
+    <string name="leak_canary_storage_permission_activity_label">Storage permission</string>
+    <string name="leak_canary_test_class_name" translatable="false">org.junit.Test</string>
+    <string name="leak_canary_toast_heap_dump">LeakCanary is dumping memory to investigate leaks.</string>
+    <string name="leak_canary_tv_analysis_failure">Heap Analysis failed, see details in Logcat</string>
+    <string name="leak_canary_tv_analysis_success">Heap Analysis performed: %1$d application leaks, %2$d library leaks. See details in Logcat</string>
+    <string name="leak_canary_tv_toast_retained_objects">%1$d retained objects. Heap dump threshold is %2$d.\nBackground the app to trigger heap dump immediately</string>
+    <string name="status_bar_notification_info_overflow">999+</string>
+    <string name="string_mute">"Mute"</string>
+    <string name="string_set_wallpaper">"Wallpaper Settings"</string>
+    <string name="string_setting">"Setting..."</string>
+    <string name="string_volume">"Volume"</string>
+    <style name="Animation">
+        <item name="android:activityOpenEnterAnimation">@null</item>
+        <item name="android:activityOpenExitAnimation">@null</item>
+        <item name="android:activityCloseEnterAnimation">@null</item>
+        <item name="android:activityCloseExitAnimation">@null</item>
+        <item name="android:taskOpenEnterAnimation">@null</item>
+        <item name="android:taskOpenExitAnimation">@null</item>
+        <item name="android:taskCloseEnterAnimation">@null</item>
+        <item name="android:taskCloseExitAnimation">@null</item>
+        <item name="android:taskToFrontEnterAnimation">@null</item>
+        <item name="android:taskToFrontExitAnimation">@null</item>
+        <item name="android:taskToBackEnterAnimation">@null</item>
+        <item name="android:taskToBackExitAnimation">@null</item>
+    </style>
+    <style name="DialText">
+        <item name="android:textSize">40px</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="FullscreenTheme" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:windowAnimationStyle">@null</item>
+        <item name="android:windowActionBarOverlay">true</item>
+        <item name="metaButtonBarStyle">?android:attr/buttonBarStyle</item>
+        <item name="metaButtonBarButtonStyle">?android:attr/buttonBarButtonStyle</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowShowWallpaper">true</item>
+    </style>
+    <style name="MainText">
+        <item name="android:textSize">22px</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="SubText">
+        <item name="android:textSize">18px</item>
+        <item name="android:textColor">#b0ffffff</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
+    <style name="TextAppearance.Compat.Notification.Info">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Info.Media"/>
+    <style name="TextAppearance.Compat.Notification.Line2" parent="TextAppearance.Compat.Notification.Info"/>
+    <style name="TextAppearance.Compat.Notification.Line2.Media" parent="TextAppearance.Compat.Notification.Info.Media"/>
+    <style name="TextAppearance.Compat.Notification.Media"/>
+    <style name="TextAppearance.Compat.Notification.Time">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">?android:attr/textColorSecondary</item>
+    </style>
+    <style name="TextAppearance.Compat.Notification.Time.Media"/>
+    <style name="TextAppearance.Compat.Notification.Title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
+    <style name="TextAppearance.Compat.Notification.Title.Media"/>
+    <style name="TitleText">
+        <item name="android:textSize">32px</item>
+        <item name="android:textColor">#ffffffff</item>
+    </style>
+    <style name="Widget.Compat.NotificationActionContainer" parent=""/>
+    <style name="Widget.Compat.NotificationActionText" parent=""/>
+    <style name="Widget.Support.CoordinatorLayout" parent="android:Widget">
+        <item name="statusBarBackground">#000000</item>
+    </style>
+    <style name="leak_canary_LeakCanary.Base" parent="android:Theme.Holo">
+    <item name="android:windowBackground">@color/leak_canary_background_color</item>
+    <item name="android:actionBarStyle">@style/leak_canary_Widget.ActionBar</item>
+  </style>
+    <style name="leak_canary_Theme.Transparent" parent="android:Theme">
+    <item name="android:windowIsTranslucent">true</item>
+    <item name="android:windowBackground">@android:color/transparent</item>
+    <item name="android:windowContentOverlay">@null</item>
+    <item name="android:windowNoTitle">true</item>
+    <item name="android:backgroundDimEnabled">false</item>
+  </style>
+    <style name="leak_canary_Widget.ActionBar" parent="android:Widget.Holo.ActionBar">
+    <item name="android:background">@color/leak_canary_background_color</item>
+    <item name="android:windowContentOverlay">@null</item>
+  </style>
+    <declare-styleable name="ButtonBarContainerTheme">
+        <attr format="reference" name="metaButtonBarStyle"/>
+        <attr format="reference" name="metaButtonBarButtonStyle"/>
+    </declare-styleable>
+    <declare-styleable name="ColorStateListItem">
+        
+        <attr name="android:color"/>
+        
+        <attr format="float" name="alpha"/>
+        <attr name="android:alpha"/>
+    </declare-styleable>
+    <declare-styleable name="CoordinatorLayout">
+        
+        <attr format="reference" name="keylines"/>
+        
+        <attr format="color|reference" name="statusBarBackground"/>
+    </declare-styleable>
+    <declare-styleable name="CoordinatorLayout_Layout">
+        <attr name="android:layout_gravity"/>
+        
+        <attr format="string" name="layout_behavior"/>
+        
+        <attr format="reference" name="layout_anchor"/>
+        
+        <attr format="integer" name="layout_keyline"/>
+
+        
+        <attr name="layout_anchorGravity">
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="center_vertical" value="0x10"/>
+            
+            <flag name="fill_vertical" value="0x70"/>
+            
+            <flag name="center_horizontal" value="0x01"/>
+            
+            <flag name="fill_horizontal" value="0x07"/>
+            
+            <flag name="center" value="0x11"/>
+            
+            <flag name="fill" value="0x77"/>
+            
+            <flag name="clip_vertical" value="0x80"/>
+            
+            <flag name="clip_horizontal" value="0x08"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+        </attr>
+
+        
+        <attr format="enum" name="layout_insetEdge">
+            
+            <enum name="none" value="0x0"/>
+            
+            <enum name="top" value="0x30"/>
+            
+            <enum name="bottom" value="0x50"/>
+            
+            <enum name="left" value="0x03"/>
+            
+            <enum name="right" value="0x05"/>
+            
+            <enum name="start" value="0x00800003"/>
+            
+            <enum name="end" value="0x00800005"/>
+        </attr>
+        
+        <attr name="layout_dodgeInsetEdges">
+            
+            <flag name="none" value="0x0"/>
+            
+            <flag name="top" value="0x30"/>
+            
+            <flag name="bottom" value="0x50"/>
+            
+            <flag name="left" value="0x03"/>
+            
+            <flag name="right" value="0x05"/>
+            
+            <flag name="start" value="0x00800003"/>
+            
+            <flag name="end" value="0x00800005"/>
+            
+            <flag name="all" value="0x77"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="CustomView">
+        <attr format="reference" name="bg_drawable"/>
+        <attr format="reference" name="icon_drawable"/>
+        <attr format="float" name="touch_circle_radius"/>
+        <attr format="boolean" name="circle_in_blank"/>
+        <attr format="float" name="fillet_radius"/>
+        <attr format="float" name="fillet_width"/>
+        <attr format="float" name="fillet_height"/>
+        <attr format="color" name="blank_bg_color_n"/>
+        <attr format="color" name="blank_bg_color_p"/>
+        <attr format="integer" name="fillet_postion"/>
+        <attr format="float" name="fillet_side_width"/>
+        <attr format="color" name="fillet_side_color"/>
+        <attr format="boolean" name="bn_touch"/>
+    </declare-styleable>
+    <declare-styleable name="FontFamily">
+        
+        <attr format="string" name="fontProviderAuthority"/>
+        
+        <attr format="string" name="fontProviderPackage"/>
+        
+        <attr format="string" name="fontProviderQuery"/>
+        
+        <attr format="reference" name="fontProviderCerts"/>
+        
+        <attr name="fontProviderFetchStrategy">
+            
+            <enum name="blocking" value="0"/>
+            
+            <enum name="async" value="1"/>
+        </attr>
+        
+        <attr format="integer" name="fontProviderFetchTimeout">
+            
+            <enum name="forever" value="-1"/>
+        </attr>
+    </declare-styleable>
+    <declare-styleable name="FontFamilyFont">
+        
+        <attr name="fontStyle">
+            <enum name="normal" value="0"/>
+            <enum name="italic" value="1"/>
+        </attr>
+        
+        <attr format="reference" name="font"/>
+        
+        <attr format="integer" name="fontWeight"/>
+        
+        <attr format="string" name="fontVariationSettings"/>
+        
+        <attr format="integer" name="ttcIndex"/>
+        
+        <attr name="android:fontStyle"/>
+        <attr name="android:font"/>
+        <attr name="android:fontWeight"/>
+        <attr name="android:fontVariationSettings"/>
+        <attr name="android:ttcIndex"/>
+    </declare-styleable>
+    <declare-styleable name="GradientColor">
+        
+        <attr name="android:startColor"/>
+        
+        <attr name="android:centerColor"/>
+        
+        <attr name="android:endColor"/>
+        
+        <attr name="android:type"/>
+
+        
+        
+        <attr name="android:gradientRadius"/>
+
+        
+        
+        <attr name="android:centerX"/>
+        
+        <attr name="android:centerY"/>
+
+        
+        
+        <attr name="android:startX"/>
+        
+        <attr name="android:startY"/>
+        
+        <attr name="android:endX"/>
+        
+        <attr name="android:endY"/>
+
+        
+        <attr name="android:tileMode"/>
+    </declare-styleable>
+    <declare-styleable name="GradientColorItem">
+        
+        <attr name="android:offset"/>
+        
+        <attr name="android:color"/>
+    </declare-styleable>
+    <declare-styleable name="leak_canary_MoreDetailsView">
+    <attr format="color" name="leak_canary_plus_color"/>
+  </declare-styleable>
+</resources>

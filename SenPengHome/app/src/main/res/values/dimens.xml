@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="page_guid_margin">110px</dimen>
+    <dimen name="app_icon_text_margin">70px</dimen>
+</resources>

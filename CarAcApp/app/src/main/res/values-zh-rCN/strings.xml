@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">车辆空调</string>
+    <string name="car_in_temp">车内温度：</string>
+    <string name="car_out_temp">出风温度：</string>
+    <string name="car_temp_degree">%s℃</string>
+    <string name="default_value">--</string>
+    <string name="gear">档</string>
+</resources>

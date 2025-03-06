@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <dimen name="grid_height">166px</dimen>
+    <dimen name="grid_icon_height">88px</dimen>
+    <dimen name="grid_icon_top_margin">4px</dimen>
+    <dimen name="grid_icon_width">88px</dimen>
+    <dimen name="grid_margin">12px</dimen>
+    <dimen name="grid_width">166px</dimen>
+    <dimen name="main_left_margin">272px</dimen>
+    <dimen name="main_right_margin">272px</dimen>
+    <dimen name="main_top_margin">128px</dimen>
+    <dimen name="text_size">24px</dimen>
+    <string name="accelerator_interlock">Accelerator interlock</string>
+    <string name="adas">ADAS</string>
+    <string name="aebs">AEBS</string>
+    <string name="app_name">Car Switch test Rakhmanko</string>
+    <string name="dome_lamp">Dome Lamp</string>
+    <string name="ev_model">EV MODEL</string>
+    <string name="ex_ambient">EX-Ambient Lamp</string>
+    <string name="fcu_degas">FCU Degas</string>
+    <string name="icm_button_back">ICMButton Back</string>
+    <string name="icm_button_down">ICMButton Down</string>
+    <string name="icm_button_menu">ICMButton Menu</string>
+    <string name="icm_button_up">ICMButton UP</string>
+    <string name="in_ambient">IN-Ambient Lamp</string>
+    <string name="steering_wheel_adjust">steering wheel adjust</string>
+    <string name="volume_down">Volume -</string>
+    <string name="volume_up">Volume +</string>
+    <style name="CarApp">
+        <item name="android:windowBackground">#50000000</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowAnimationStyle">@android:style/Animation</item>
+    </style>
+    <style name="MyCheckView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginLeft">30dp</item>
+        <item name="android:layout_marginRight">30dp</item>
+        <item name="android:background">@drawable/selector_switch_bg</item>
+    </style>
+    <declare-styleable name="AutoWrapTextViewStyle">
+        <attr format="dimension" name="paddingLeft"/>
+        <attr format="dimension" name="paddingTop"/>
+        <attr format="dimension" name="paddingRight"/>
+        <attr format="dimension" name="paddingBottom"/>
+        <attr format="dimension" name="textSize"/>
+        <attr format="color" name="textColor"/>
+        <attr format="integer" name="lineSpacingExtra"/>
+    </declare-styleable>
+    <declare-styleable name="FullscreenAttrs">
+        <attr format="color" name="fullscreenBackgroundColor"/>
+        <attr format="color" name="fullscreenTextColor"/>
+    </declare-styleable>
+    <declare-styleable name="MyCheckImageView">
+        <attr format="integer" name="maxLevel"/>
+        <attr format="integer" name="level"/>
+        <attr format="reference" name="checkedImg"/>
+        <attr format="reference" name="text"/>
+    </declare-styleable>
+</resources>

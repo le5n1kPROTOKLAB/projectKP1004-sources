@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Air Conditioner</string>
+    <string name="car_in_temp">Inside temperature:</string>
+    <string name="car_out_temp">Outside temperature:</string>
+    <string name="car_temp_degree">%s℃</string>
+    <string name="default_value">--</string>
+    <string name="gear">gear</string>
+</resources>

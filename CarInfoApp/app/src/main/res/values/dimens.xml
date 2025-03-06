@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_size">28px</dimen>
+    <dimen name="padding_v">32px</dimen>
+    <dimen name="tab_left">40px</dimen>
+</resources>

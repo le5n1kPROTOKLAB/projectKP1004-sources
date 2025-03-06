@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"Hogar"</string>
+    <string name="app_name_navigation">"Navegación"</string>
+    <string name="app_name_music">"Música"</string>
+    <string name="app_name_radio">"Radio"</string>
+    <string name="app_name_eq">"Efectos de sonido"</string>
+    <string name="app_name_360">"AV M"</string>
+    <string name="app_name_car_wechat">"Car WeChat"</string>
+    <string name="app_name_video">"Vídeo"</string>
+    <string name="app_name_photo">"Foto"</string>
+    <string name="app_name_car_life">"CarLife"</string>
+    <string name="app_name_car_play">"CarPlay"</string>
+    <string name="app_name_car_setting">"Información del coche"</string>
+    <string name="app_name_settings">"Ajustes del sistema"</string>
+    <string name="app_name_ai_qu">"AiQu"</string>
+    <string name="app_name_qq_music">"QQMusic"</string>
+    <string name="app_name_tingban">"Tingban"</string>
+    <string name="app_name_ximalaya">"XiMaLaYa"</string>
+    <string name="app_name_tencent_video">"TencentVideo"</string>
+    <string name="app_name_ku_wo">"KuWo"</string>
+    <string name="app_name_net_browser">"Navegador"</string>
+    <string name="app_name_aux_in">"AUX IN"</string>
+    <string name="app_name_screen_saver_set">"Salvapantallas"</string>
+    <string name="app_name_phone">"Teléfono bluetooth"</string>
+    <string name="app_name_dvr">"DVR"</string>
+    <string name="app_name_google_play">"Google Play"</string>
+    <string name="app_name_youtube">"Youtube"</string>
+    <string name="app_name_chrome">"Chrome"</string>
+    <string name="app_name_es">"ES Browser"</string>
+    <string name="app_name_ktv">"KTV"</string>
+    <string name="app_name_android_auto">"Android Auto"</string>
+    <string name="string_set_wallpaper">"Configuración de fondo de pantalla"</string>
+    <string name="string_setting">"Ajuste..."</string>
+    <string name="string_mute">"Mudo"</string>
+    <string name="string_volume">"Volumen"</string>
+</resources>

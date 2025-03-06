@@ -1,0 +1,86 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.carswitcherapp.debug"
+4    android:versionCode="2"
+5    android:versionName="1.2.2-DEBUG" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="28"
+8-->F:\projectMAZ\CarSwitcherApp\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="28" />
+9-->F:\projectMAZ\CarSwitcherApp\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" /> <!-- android:sharedUserId="android.uid.system" для продашена -->
+11-->[common_ui_1.0.1_202305091532_release.aar] C:\Users\lesnik\.gradle\caches\transforms-3\474d29d4847125a4896ebd545bce3a6b\transformed\common_ui_1.0.1_202305091532_release\AndroidManifest.xml:9:5-80
+11-->[common_ui_1.0.1_202305091532_release.aar] C:\Users\lesnik\.gradle\caches\transforms-3\474d29d4847125a4896ebd545bce3a6b\transformed\common_ui_1.0.1_202305091532_release\AndroidManifest.xml:9:22-77
+12    <application
+12-->F:\projectMAZ\CarSwitcherApp\app\src\main\AndroidManifest.xml:6:5-27:19
+13        android:name="com.example.carswitcherapp.MyApplication"
+13-->F:\projectMAZ\CarSwitcherApp\app\src\main\AndroidManifest.xml:7:9-38
+14        android:allowBackup="true"
+14-->F:\projectMAZ\CarSwitcherApp\app\src\main\AndroidManifest.xml:8:9-35
+15        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+15-->[androidx.core:core:1.7.0] C:\Users\lesnik\.gradle\caches\transforms-3\b9e4376e452ce4f1a2bbb1fc4b534124\transformed\core-1.7.0\AndroidManifest.xml:24:18-86
+16        android:debuggable="true"
+17        android:extractNativeLibs="false"
+18        android:icon="@mipmap/ic_launcher"
+18-->F:\projectMAZ\CarSwitcherApp\app\src\main\AndroidManifest.xml:9:9-43
+19        android:label="@string/app_name"
+19-->F:\projectMAZ\CarSwitcherApp\app\src\main\AndroidManifest.xml:10:9-41
+20        android:resizeableActivity="false"
+20-->F:\projectMAZ\CarSwitcherApp\app\src\main\AndroidManifest.xml:11:9-43
+21        android:roundIcon="@mipmap/ic_launcher_round"
+21-->F:\projectMAZ\CarSwitcherApp\app\src\main\AndroidManifest.xml:12:9-54
+22        android:supportsRtl="true"
+22-->F:\projectMAZ\CarSwitcherApp\app\src\main\AndroidManifest.xml:13:9-35
+23        android:testOnly="true" >
+24        <activity
+24-->F:\projectMAZ\CarSwitcherApp\app\src\main\AndroidManifest.xml:14:9-26:20
+25            android:name="com.example.carswitcherapp.MainActivity"
+25-->F:\projectMAZ\CarSwitcherApp\app\src\main\AndroidManifest.xml:15:13-41
+26            android:configChanges="orientation|screenSize|smallestScreenSize|screenLayout"
+26-->F:\projectMAZ\CarSwitcherApp\app\src\main\AndroidManifest.xml:16:13-91
+27            android:exported="true"
+27-->F:\projectMAZ\CarSwitcherApp\app\src\main\AndroidManifest.xml:17:13-36
+28            android:launchMode="singleTask"
+28-->F:\projectMAZ\CarSwitcherApp\app\src\main\AndroidManifest.xml:18:13-44
+29            android:screenOrientation="fullSensor"
+29-->F:\projectMAZ\CarSwitcherApp\app\src\main\AndroidManifest.xml:19:13-51
+30            android:theme="@style/CarApp" >
+30-->F:\projectMAZ\CarSwitcherApp\app\src\main\AndroidManifest.xml:20:13-42
+31            <intent-filter>
+31-->F:\projectMAZ\CarSwitcherApp\app\src\main\AndroidManifest.xml:21:13-25:29
+32                <action android:name="android.intent.action.MAIN" />
+32-->F:\projectMAZ\CarSwitcherApp\app\src\main\AndroidManifest.xml:22:17-69
+32-->F:\projectMAZ\CarSwitcherApp\app\src\main\AndroidManifest.xml:22:25-66
+33
+34                <category android:name="android.intent.category.LAUNCHER" />
+34-->F:\projectMAZ\CarSwitcherApp\app\src\main\AndroidManifest.xml:24:17-77
+34-->F:\projectMAZ\CarSwitcherApp\app\src\main\AndroidManifest.xml:24:27-74
+35            </intent-filter>
+36        </activity>
+37
+38        <provider
+38-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lesnik\.gradle\caches\transforms-3\2c96a293c0a835e94af1ddc4d74ff22d\transformed\emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
+39            android:name="androidx.startup.InitializationProvider"
+39-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lesnik\.gradle\caches\transforms-3\2c96a293c0a835e94af1ddc4d74ff22d\transformed\emoji2-1.0.0\AndroidManifest.xml:27:13-67
+40            android:authorities="com.example.carswitcherapp.debug.androidx-startup"
+40-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lesnik\.gradle\caches\transforms-3\2c96a293c0a835e94af1ddc4d74ff22d\transformed\emoji2-1.0.0\AndroidManifest.xml:28:13-68
+41            android:exported="false" >
+41-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lesnik\.gradle\caches\transforms-3\2c96a293c0a835e94af1ddc4d74ff22d\transformed\emoji2-1.0.0\AndroidManifest.xml:29:13-37
+42            <meta-data
+42-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lesnik\.gradle\caches\transforms-3\2c96a293c0a835e94af1ddc4d74ff22d\transformed\emoji2-1.0.0\AndroidManifest.xml:31:13-33:52
+43                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+43-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lesnik\.gradle\caches\transforms-3\2c96a293c0a835e94af1ddc4d74ff22d\transformed\emoji2-1.0.0\AndroidManifest.xml:32:17-75
+44                android:value="androidx.startup" />
+44-->[androidx.emoji2:emoji2:1.0.0] C:\Users\lesnik\.gradle\caches\transforms-3\2c96a293c0a835e94af1ddc4d74ff22d\transformed\emoji2-1.0.0\AndroidManifest.xml:33:17-49
+45            <meta-data
+45-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\lesnik\.gradle\caches\transforms-3\bdba8a1b7f77d959878d5a52670cf96f\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:31:13-33:52
+46                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+46-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\lesnik\.gradle\caches\transforms-3\bdba8a1b7f77d959878d5a52670cf96f\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:32:17-78
+47                android:value="androidx.startup" />
+47-->[androidx.lifecycle:lifecycle-process:2.4.0] C:\Users\lesnik\.gradle\caches\transforms-3\bdba8a1b7f77d959878d5a52670cf96f\transformed\lifecycle-process-2.4.0\AndroidManifest.xml:33:17-49
+48        </provider>
+49    </application>
+50
+51</manifest>

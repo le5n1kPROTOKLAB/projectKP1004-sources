@@ -1,0 +1,34 @@
+plugins {
+    id 'com.android.application'
+}
+apply from: "F:\\projectMAZ\\CarInfoApp\\keys\\init.gradle"
+
+android {
+    defaultConfig {
+        applicationId "com.example.carinfoapp"
+        versionCode 2
+        versionName "ZSK0005410_1.0.2"
+        rootProject.ext.appName = "车辆信息"
+    }
+
+    buildFeatures {
+        viewBinding true
+    }
+}
+
+apply from: "F:\\projectMAZ\\CarInfoApp\\keys\\common.gradle"
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.4.1'
+    implementation 'com.google.android.material:material:1.5.0'
+    implementation 'com.orhanobut:logger:2.2.0'
+    implementation 'org.greenrobot:eventbus:3.1.1'
+    implementation 'com.geyifeng.immersionbar:immersionbar:3.2.2'
+    implementation files('libs/serial_port_1.0.4_202404201647_release.aar')
+    implementation files('libs/common_ui_1.0.1_202305091532_release.aar')
+
+    implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.4.1'
+    implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.1'
+    implementation 'q.rorbin:VerticalTabLayout:1.2.5'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+}

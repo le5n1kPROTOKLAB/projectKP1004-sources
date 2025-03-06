@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:paddingTop="88px"
+    tools:ignore="MissingDefaultResource">
+
+    <FrameLayout
+        android:layout_width="288px"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_tab_land">
+
+        <q.rorbin.verticaltablayout.VerticalTabLayout
+            android:id="@+id/vt_table"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:indicator_color="@android:color/transparent"
+            app:indicator_width="0px"
+            app:tab_height="100px"
+            app:tab_mode="scrollable" />
+
+    </FrameLayout>
+
+    <com.example.carinfoapp.widget.NoSwipeViewPager
+        android:id="@+id/view_pager"
+        android:layout_width="0px"
+        android:layout_height="match_parent"
+        android:layout_weight="1" />
+
+</LinearLayout>

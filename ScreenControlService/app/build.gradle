@@ -1,0 +1,70 @@
+plugins {
+    id 'com.android.application'
+}
+apply from: "F:\\projectMAZ\\ScreenControlService\\keys\\init.gradle"
+
+android {
+    defaultConfig {
+        applicationId "com.senptec.control"
+        versionCode 6
+        versionName "1.6.6"
+        rootProject.ext.appName = "车辆服务"
+
+        ndk {
+            abiFilters "arm64-v8a"
+        }
+        ndk {
+            ldLibs "log"
+        }
+    }
+
+    sourceSets {
+        main {
+            jniLibs.srcDirs = ['libs']
+        }
+    }
+
+    buildTypes {
+        debug {
+            applicationIdSuffix ".debug" // Уникальный ID: com.example.carswitcherapp.debug
+            versionNameSuffix "-DEBUG"
+            debuggable true
+        }
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    buildFeatures {
+        viewBinding true
+    }
+}
+
+apply from: "F:\\projectMAZ\\ScreenControlService\\keys\\common.gradle"
+
+dependencies {
+    implementation files('libs/SettingJar.jar')
+    implementation files('libs/DvrJar.jar')
+    implementation files('libs/carinfo.jar')
+    compileOnly files('libs/framework.jar')
+
+    implementation 'androidx.appcompat:appcompat:1.4.1'
+    implementation 'com.google.android.material:material:1.4.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.0.4'
+    testImplementation 'junit:junit:4.13.2'
+    androidTestImplementation 'androidx.test.ext:junit:1.1.3'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
+    implementation 'org.greenrobot:eventbus:3.1.1'
+    implementation 'com.orhanobut:logger:2.2.0'
+    implementation 'io.github.ShawnLin013:number-picker:2.4.13'
+    implementation 'com.geyifeng.immersionbar:immersionbar:3.2.2'
+    implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
+//    implementation 'com.github.Jay-Goo:RangeSeekBar:v3.0.0'
+    implementation files('libs/serial_port_1.0.4_202404201647_release.aar')
+    implementation files('libs/u_manager_lib_1.0.2_202401161000_release.aar')
+    // litepal数据库
+    implementation 'org.litepal.android:core:1.6.1'
+    implementation files('libs/qcar_encoder.aar')
+    implementation 'commons-io:commons-io:2.0.1'
+}

@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center_horizontal"
+        android:minWidth="@dimen/whole_width">
+
+        <!--<TextView
+            android:id="@+id/indicator_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Получено сообщение"
+            android:visibility="gone"
+            android:textColor="@android:color/holo_red_dark"
+            android:textSize="18sp"
+            app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="16dp"
+            android:layout_marginStart="16dp"/>-->
+
+        <!--<TextView
+            android:id="@+id/indicator_receive"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Данные получены в onReceive"
+            android:visibility="gone"
+            android:textColor="@android:color/holo_blue_dark"
+            android:textSize="18sp"
+            app:layout_constraintTop_toBottomOf="@id/indicator_text"
+            app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginTop="16dp"
+            android:layout_marginStart="16dp"/>
+
+        <TextView
+            android:id="@+id/tv_can_id"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="CAN ID: "
+            android:textColor="@android:color/holo_blue_dark"
+            app:layout_constraintTop_toBottomOf="@id/indicator_text"
+            android:textSize="16sp"
+            android:visibility="visible"
+            app:layout_constraintStart_toStartOf="parent"
+            tools:layout_editor_absoluteY="0dp" />
+-->
+        <!--<TextView
+            android:id="@+id/tv_receive_count"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:text="Receive Count: 0"
+            android:textColor="@android:color/holo_red_dark"
+            android:textSize="16sp"
+            android:visibility="visible"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/indicator_text" />-->
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/temp_left_margin"
+            android:layout_marginTop="@dimen/temp_top"
+            android:orientation="horizontal"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <TextView
+                style="@style/text"
+                android:text="@string/car_in_temp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/temp_in"
+                style="@style/text"
+                android:gravity="end"
+                android:minWidth="@dimen/temp_text_min_width"
+                android:text="@string/car_temp_degree"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+        </LinearLayout>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/temp_top"
+            android:layout_marginEnd="150dp"
+            android:orientation="horizontal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <TextView
+                style="@style/text"
+                android:text="@string/car_out_temp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+
+            <TextView
+                android:id="@+id/temp_out"
+                style="@style/text"
+                android:gravity="end"
+                android:minWidth="@dimen/temp_text_min_width"
+                android:text="@string/car_temp_degree"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="@dimen/image_view_width"
+            android:layout_height="@dimen/image_view_height"
+            android:layout_marginTop="@dimen/image_view_top_margin"
+            android:src="@drawable/ac_pic_land"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="MissingConstraints" />
+
+        <ImageView
+            android:layout_width="@dimen/icon_size"
+            android:layout_height="@dimen/icon_size"
+            android:layout_marginStart="@dimen/icon_left_margin"
+            android:layout_marginTop="@dimen/icon_top_margin"
+            android:src="@drawable/icon_temperature"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="MissingConstraints" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="104px"
+            android:layout_marginTop="138px"
+            android:gravity="center"
+            android:orientation="vertical"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                android:id="@+id/ivbt_t_up"
+                android:layout_width="88px"
+                android:layout_height="88px"
+                android:src="@drawable/ac_up_selector" />
+
+            <com.shawnlin.numberpicker.NumberPicker
+                android:id="@+id/np_t"
+                android:layout_width="116px"
+                android:layout_height="196px"
+                android:layout_marginTop="30px"
+                android:layout_marginBottom="30px"
+                app:np_dividerColor="@android:color/transparent"
+                app:np_max="32"
+                app:np_min="0"
+                app:np_order="descending"
+                app:np_selectedTextColor="@color/white"
+                app:np_selectedTextSize="60px"
+                app:np_textColor="@android:color/darker_gray"
+                app:np_textSize="50px"
+                app:np_value="1"
+                app:np_width="56px"
+                app:np_wrapSelectorWheel="false" />
+
+            <ImageView
+                android:id="@+id/ivbt_down"
+                android:layout_width="88px"
+                android:layout_height="88px"
+                android:src="@drawable/ac_down_selector" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="42px"
+            android:layout_height="46px"
+            android:layout_marginStart="220px"
+            android:layout_marginTop="@dimen/icon_top_margin"
+            android:gravity="center"
+            android:text="℃"
+            android:textColor="@color/white"
+            android:textSize="28px"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <ImageView
+            android:layout_width="@dimen/icon_size"
+            android:layout_height="@dimen/icon_size"
+            android:layout_marginTop="@dimen/icon_top_margin"
+            android:layout_marginEnd="218px"
+            android:src="@drawable/icon_windspeed"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="MissingConstraints" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="138px"
+            android:layout_marginEnd="122px"
+            android:gravity="center"
+            android:orientation="vertical"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                android:id="@+id/ivbt_s_up"
+                android:layout_width="88px"
+                android:layout_height="88px"
+                android:src="@drawable/ac_up_selector" />
+
+            <com.shawnlin.numberpicker.NumberPicker
+                android:id="@+id/seekbar"
+                android:layout_width="match_parent"
+                android:layout_height="196px"
+                android:layout_marginTop="30px"
+                android:layout_marginBottom="30px"
+                app:np_dividerColor="@android:color/transparent"
+                app:np_max="3"
+                app:np_min="1"
+                app:np_order="descending"
+                app:np_selectedTextColor="@color/white"
+                app:np_selectedTextSize="60px"
+                app:np_textColor="@android:color/darker_gray"
+                app:np_textSize="50px"
+                app:np_value="1"
+                app:np_width="56px"
+                app:np_wrapSelectorWheel="false" />
+
+            <ImageView
+                android:id="@+id/ivbt_s_down"
+                android:layout_width="88px"
+                android:layout_height="88px"
+                android:src="@drawable/ac_down_selector" />
+        </LinearLayout>
+
+        <TextView
+            android:layout_width="60px"
+            android:layout_height="46px"
+            android:layout_marginTop="@dimen/icon_top_margin"
+            android:layout_marginEnd="84px"
+            android:gravity="center"
+            android:text="@string/gear"
+            android:textColor="@color/white"
+            android:textSize="28px"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toTopOf="parent" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="36px"
+            android:gravity="center_vertical"
+            android:orientation="horizontal"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent">
+
+            <com.example.caracapp.CheckImageView
+                android:id="@+id/civ_power_controller"
+                style="@style/bottom_button"
+                app:checkedImg="@drawable/on"
+                app:uncheckedImg="@drawable/off" />
+
+            <com.example.caracapp.CheckImageView
+                android:id="@+id/civ_auto_controller"
+                style="@style/bottom_button"
+                android:layout_marginStart="16px"
+                app:checkedImg="@drawable/auto_on"
+                app:uncheckedImg="@drawable/auto" />
+
+            <com.example.caracapp.CheckImageView
+                android:id="@+id/civ_cold_controller"
+                style="@style/bottom_button"
+                android:layout_marginStart="16px"
+                app:checkedImg="@drawable/cool_on"
+                app:uncheckedImg="@drawable/cool" />
+
+            <com.example.caracapp.CheckImageView
+                android:id="@+id/civ_heat_controller"
+                style="@style/bottom_button"
+                android:layout_marginStart="16px"
+                app:checkedImg="@drawable/hot_on"
+                app:uncheckedImg="@drawable/hot" />
+
+            <com.example.caracapp.CheckImageView
+                android:id="@+id/civ_wind_controller"
+                style="@style/bottom_button"
+                android:layout_marginStart="16px"
+                app:checkedImg="@drawable/wind_on"
+                app:uncheckedImg="@drawable/wind" />
+
+            <com.example.caracapp.CheckImageView
+                android:id="@+id/civ_efficiency_controller"
+                style="@style/bottom_button"
+                android:layout_marginStart="16px"
+                app:checkedImg="@drawable/high_efficiency_on"
+                app:uncheckedImg="@drawable/high_efficiency" />
+
+            <com.example.caracapp.CheckImageView
+                android:id="@+id/civ_inexpensive_controller"
+                style="@style/bottom_button"
+                android:layout_marginStart="16px"
+                app:checkedImg="@drawable/inexpensive_on"
+                app:uncheckedImg="@drawable/inexpensive" />
+
+            <com.example.caracapp.CheckImageView
+                android:id="@+id/civ_eco_controller"
+                style="@style/bottom_button"
+                android:layout_marginStart="16px"
+                android:visibility="invisible"
+                app:checkedImg="@drawable/eco_on"
+                app:uncheckedImg="@drawable/eco" />
+
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</FrameLayout>

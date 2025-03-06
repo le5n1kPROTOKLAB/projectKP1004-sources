@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-1280x672\\values-1280x672.xml",
+            "map": [
+                {
+                    "source": "F:\\projectMAZ\\SenPengHome\\app\\src\\main\\res\\values-1280x672\\dimens.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "107,57",
+                        "endColumns": "51,48",
+                        "endOffsets": "154,101"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,107",
+                        "endColumns": "51,48",
+                        "endOffsets": "102,151"
+                    }
+                }
+            ]
+        }
+    ]
+}

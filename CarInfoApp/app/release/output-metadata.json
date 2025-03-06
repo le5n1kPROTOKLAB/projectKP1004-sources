@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.example.carinfoapp",
+  "variantName": "release",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 2,
+      "versionName": "ZSK0005410_1.0.2",
+      "outputFile": "车辆信息-VZSK0005410_1.0.2-V2-202404221713-release.apk"
+    }
+  ],
+  "elementType": "File"
+}

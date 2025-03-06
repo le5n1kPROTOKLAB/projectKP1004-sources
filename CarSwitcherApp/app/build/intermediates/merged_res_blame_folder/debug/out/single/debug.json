@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_volume_up_close.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\volume_up_close.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_switch_on.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\switch_on.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_fcu_degas.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\selector_fcu_degas.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_fcu_degas_close.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\fcu_degas_close.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_switch_ad_on.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\switch_ad_on.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_icm_button_down.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\selector_icm_button_down.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_icm_button_down_open.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\icm_button_down_open.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_dome_lamp_open.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\dome_lamp_open.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_aebs.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\selector_aebs.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_icm_button_back.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\selector_icm_button_back.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_switch_road_on.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\switch_road_on.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_adas_close.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\adas_close.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_icm_button_up.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\selector_icm_button_up.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_icm_button_up_open.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\icm_button_up_open.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_ex_ambient.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\selector_ex_ambient.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_img.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\img.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\layout_view_my_check.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\layout\\view_my_check.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_icm_button_menu_close.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\icm_button_menu_close.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_switch_tv_off.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\switch_tv_off.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_in_ambient.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\selector_in_ambient.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ex_ambient_open.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\ex_ambient_open.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_switch_tv_on.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\switch_tv_on.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_switch_on1.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\switch_on1.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_switch_led_on.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\switch_led_on.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_switch_ad.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\selector_switch_ad.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ex_ambient_close.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\ex_ambient_close.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_aebs_close.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\aebs_close.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_switch_bg_2.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\switch_bg_2.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_fcu_degas_open.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\fcu_degas_open.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_switch_bg.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\selector_switch_bg.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_aebs_open.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\aebs_open.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_in_ambient_close.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\in_ambient_close.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_icm_button_back_close.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\icm_button_back_close.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_steering_wheel_adjust.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\selector_steering_wheel_adjust.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_switch_road.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\selector_switch_road.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_switch_on2.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\switch_on2.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_switch_ad_off.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\switch_ad_off.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_switch_tv.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\selector_switch_tv.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_in_ambient_open.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\in_ambient_open.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_switch_led_off.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\switch_led_off.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_adas_open.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\adas_open.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_icm_button_up_close.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\icm_button_up_close.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_accelerator_interlock_close.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\accelerator_interlock_close.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_volume_up_open.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\volume_up_open.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_volume_up.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\selector_volume_up.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_accelerator_interlock_open.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\accelerator_interlock_open.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_switch_bg.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\switch_bg.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_volume_down_close.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\volume_down_close.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_steering_wheel_adjust_open.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\steering_wheel_adjust_open.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_switch_led.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\selector_switch_led.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_icm_button_menu_open.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\icm_button_menu_open.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_volume_down_open.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\volume_down_open.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_ev_model.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\selector_ev_model.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\color_selector_switch_text.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\color\\selector_switch_text.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_volume_down.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\selector_volume_down.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ev_model_open.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\ev_model_open.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_switch_road_off.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\switch_road_off.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_adas.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\selector_adas.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_dome_lamp_close.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\dome_lamp_close.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_icm_button_down_close.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\icm_button_down_close.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_ev_model_close.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\ev_model_close.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_accelerator_interlock.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\selector_accelerator_interlock.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_icm_button_back_open.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\icm_button_back_open.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_dome_lamp.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\selector_dome_lamp.xml"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_steering_wheel_adjust_close.png.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\steering_wheel_adjust_close.png"
+    },
+    {
+        "merged": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\merged_res\\debug\\drawable_selector_icm_button_menu.xml.flat",
+        "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\drawable\\selector_icm_button_menu.xml"
+    }
+]

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">车辆服务</string>
+    <string name="external_storage">外置存储</string>
+    <string name="usb_storage">USB 存储</string>
+</resources>

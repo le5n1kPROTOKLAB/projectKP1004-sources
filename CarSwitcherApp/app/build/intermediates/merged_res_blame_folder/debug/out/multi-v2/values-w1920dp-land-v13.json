@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-w1920dp-land-v13\\values-w1920dp-land-v13.xml",
+            "map": [
+                {
+                    "source": "F:\\projectMAZ\\CarSwitcherApp\\app\\src\\main\\res\\values-w1920dp-land\\dimens.xml",
+                    "from": {
+                        "startLines": "7,10,11,9,8,6,3,4,5,2",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "291,429,479,380,336,247,99,148,198,57",
+                        "endColumns": "43,48,51,47,42,42,47,48,47,40",
+                        "endOffsets": "330,473,526,423,374,285,142,192,241,93"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,99,148,200,248,291,334,382,431,479",
+                        "endColumns": "43,48,51,47,42,42,47,48,47,40",
+                        "endOffsets": "94,143,195,243,286,329,377,426,474,515"
+                    }
+                }
+            ]
+        }
+    ]
+}

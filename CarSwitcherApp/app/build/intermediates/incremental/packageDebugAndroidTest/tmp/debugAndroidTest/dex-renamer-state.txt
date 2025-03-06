@@ -1,0 +1,7 @@
+#Thu Feb 27 13:13:18 MSK 2025
+base.1=F\:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\4\\classes.dex
+path.1=4/classes.dex
+base.0=F\:\\projectMAZ\\CarSwitcherApp\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex

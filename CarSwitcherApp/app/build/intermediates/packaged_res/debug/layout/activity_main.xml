@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@drawable/bg">
+
+    <!-- Первая строка -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginStart="@dimen/main_left_margin"
+        android:layout_marginEnd="@dimen/main_right_margin"
+        android:layout_marginTop="@dimen/main_top_margin">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:orientation="horizontal">
+
+            <com.example.carswitcherapp.common.view.MyCheckImageView
+                android:id="@+id/iv_dome_lamp"
+                android:layout_width="@dimen/grid_width"
+                android:layout_height="@dimen/grid_width"
+                android:layout_margin="@dimen/grid_margin"
+                app:checkedImg="@drawable/switch_bg" />
+
+            <com.example.carswitcherapp.common.view.MyCheckImageView
+                android:id="@+id/iv_in_ambient"
+                android:layout_width="@dimen/grid_width"
+                android:layout_height="@dimen/grid_width"
+                android:layout_margin="@dimen/grid_margin"
+                app:checkedImg="@drawable/switch_bg" />
+
+            <com.example.carswitcherapp.common.view.MyCheckImageView
+                android:id="@+id/iv_ex_ambient"
+                android:layout_width="@dimen/grid_width"
+                android:layout_height="@dimen/grid_width"
+                android:layout_margin="@dimen/grid_margin"
+                app:checkedImg="@drawable/switch_bg" />
+        </LinearLayout>
+
+        <!-- Правый блок с кнопкой UP и Volume Up -->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginEnd="@dimen/grid_margin"
+            android:gravity="right"
+            android:orientation="horizontal">
+
+            <com.example.carswitcherapp.common.view.MyCheckImageView
+                android:id="@+id/iv_volume_up"
+                android:layout_width="@dimen/grid_width"
+                android:layout_height="@dimen/grid_width"
+                android:layout_margin="@dimen/grid_margin"
+                app:checkedImg="@drawable/switch_bg" />
+
+            <com.example.carswitcherapp.common.view.MyCheckImageView
+                android:id="@+id/iv_icm_button_up"
+                android:layout_width="@dimen/grid_width"
+                android:layout_height="@dimen/grid_width"
+                android:layout_margin="@dimen/grid_margin"
+                app:checkedImg="@drawable/switch_bg" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Вторая строка -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginStart="@dimen/main_left_margin"
+        android:layout_marginEnd="@dimen/main_right_margin"
+        android:layout_marginTop="@dimen/grid_margin">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:orientation="horizontal">
+
+            <com.example.carswitcherapp.common.view.MyCheckImageView
+                android:id="@+id/iv_fcu_degas"
+                android:layout_width="@dimen/grid_width"
+                android:layout_height="@dimen/grid_width"
+                android:layout_margin="@dimen/grid_margin"
+                app:checkedImg="@drawable/switch_bg" />
+
+            <com.example.carswitcherapp.common.view.MyCheckImageView
+                android:id="@+id/iv_steering_wheel_adjust"
+                android:layout_width="@dimen/grid_width"
+                android:layout_height="@dimen/grid_width"
+                android:layout_margin="@dimen/grid_margin"
+                app:checkedImg="@drawable/switch_bg" />
+
+            <com.example.carswitcherapp.common.view.MyCheckImageView
+                android:id="@+id/iv_accelerator_interlock"
+                android:layout_width="@dimen/grid_width"
+                android:layout_height="@dimen/grid_width"
+                android:layout_margin="@dimen/grid_margin"
+                app:checkedImg="@drawable/switch_bg" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginEnd="@dimen/grid_margin"
+            android:gravity="right"
+            android:orientation="horizontal">
+
+            <com.example.carswitcherapp.common.view.MyCheckImageView
+                android:id="@+id/iv_icm_button_back"
+                android:layout_width="@dimen/grid_width"
+                android:layout_height="@dimen/grid_width"
+                android:layout_margin="@dimen/grid_margin"
+                app:checkedImg="@drawable/switch_bg" />
+
+            <com.example.carswitcherapp.common.view.MyCheckImageView
+                android:id="@+id/iv_icm_button_menu"
+                android:layout_width="@dimen/grid_width"
+                android:layout_height="@dimen/grid_width"
+                android:layout_margin="@dimen/grid_margin"
+                app:checkedImg="@drawable/switch_bg" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Третья строка -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginStart="@dimen/main_left_margin"
+        android:layout_marginEnd="@dimen/main_right_margin"
+        android:layout_marginTop="@dimen/grid_margin">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="3"
+            android:orientation="horizontal">
+
+            <com.example.carswitcherapp.common.view.MyCheckImageView
+                android:id="@+id/iv_ev_model"
+                android:layout_width="@dimen/grid_width"
+                android:layout_height="@dimen/grid_width"
+                android:layout_margin="@dimen/grid_margin"
+                app:checkedImg="@drawable/switch_bg" />
+
+            <com.example.carswitcherapp.common.view.MyCheckImageView
+                android:id="@+id/iv_adas"
+                android:layout_width="@dimen/grid_width"
+                android:layout_height="@dimen/grid_width"
+                android:layout_margin="@dimen/grid_margin"
+                app:checkedImg="@drawable/switch_bg" />
+
+            <com.example.carswitcherapp.common.view.MyCheckImageView
+                android:id="@+id/iv_aebs"
+                android:layout_width="@dimen/grid_width"
+                android:layout_height="@dimen/grid_width"
+                android:layout_margin="@dimen/grid_margin"
+                app:checkedImg="@drawable/switch_bg" />
+        </LinearLayout>
+
+        <!-- Правый блок с кнопкой DOWN и Volume Down -->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginEnd="@dimen/grid_margin"
+            android:gravity="right"
+            android:orientation="horizontal">
+
+            <com.example.carswitcherapp.common.view.MyCheckImageView
+                android:id="@+id/iv_volume_down"
+                android:layout_width="@dimen/grid_width"
+                android:layout_height="@dimen/grid_width"
+                android:layout_margin="@dimen/grid_margin"
+                app:checkedImg="@drawable/switch_bg" />
+
+            <com.example.carswitcherapp.common.view.MyCheckImageView
+                android:id="@+id/iv_icm_button_down"
+                android:layout_width="@dimen/grid_width"
+                android:layout_height="@dimen/grid_width"
+                android:layout_margin="@dimen/grid_margin"
+                app:checkedImg="@drawable/switch_bg" />
+        </LinearLayout>
+    </LinearLayout>
+
+</LinearLayout>

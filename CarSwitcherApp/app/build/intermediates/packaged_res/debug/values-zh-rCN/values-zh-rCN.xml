@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accelerator_interlock">油门互锁</string>
+    <string name="adas">ADAS</string>
+    <string name="aebs">AEBS</string>
+    <string name="app_name">车辆开关</string>
+    <string name="dome_lamp">车内照明灯</string>
+    <string name="ev_model">EV模式</string>
+    <string name="ex_ambient">车外氛围灯</string>
+    <string name="fcu_degas">氢堆加水除气</string>
+    <string name="icm_button_back">返回</string>
+    <string name="icm_button_down">下一步</string>
+    <string name="icm_button_menu">确认</string>
+    <string name="icm_button_up">上一步</string>
+    <string name="in_ambient">车内氛围灯</string>
+    <string name="steering_wheel_adjust">方向盘调节</string>
+    <string name="volume_down">Volume -</string>
+    <string name="volume_up">Volume +</string>
+</resources>

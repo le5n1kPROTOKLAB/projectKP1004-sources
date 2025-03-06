@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"主頁"</string>
+    <string name="app_name_navigation">"導航"</string>
+    <string name="app_name_music">"音樂"</string>
+    <string name="app_name_radio">"收音"</string>
+    <string name="app_name_eq">"調音臺"</string>
+    <string name="app_name_360">"全景環視"</string>
+    <string name="app_name_car_wechat">"車載微信"</string>
+    <string name="app_name_video">"視頻"</string>
+    <string name="app_name_photo">"圖片"</string>
+    <string name="app_name_car_life">"CarLife"</string>
+    <string name="app_name_car_play">"CarPlay"</string>
+    <string name="app_name_car_setting">"車輛信息"</string>
+    <string name="app_name_settings">"系統設置"</string>
+    <string name="app_name_ai_qu">"愛趣聽"</string>
+    <string name="app_name_qq_music">"QQ音樂"</string>
+    <string name="app_name_tingban">"聽伴"</string>
+    <string name="app_name_ximalaya">"喜馬拉雅"</string>
+    <string name="app_name_tencent_video">"騰訊視頻"</string>
+    <string name="app_name_ku_wo">"酷我音樂"</string>
+    <string name="app_name_net_browser">"網頁瀏覽器"</string>
+    <string name="app_name_aux_in">"AUX IN"</string>
+    <string name="app_name_screen_saver_set">"屏保設置"</string>
+    <string name="app_name_phone">"藍牙電話"</string>
+    <string name="app_name_dvr">"行車記錄儀"</string>
+    <string name="app_name_google_play">"Google市場"</string>
+    <string name="app_name_youtube">"Youtube"</string>
+    <string name="app_name_chrome">"Chrome"</string>
+    <string name="app_name_es">"ES騮覽器"</string>
+    <string name="app_name_ktv">"KTV"</string>
+    <string name="app_name_android_auto">"Android Auto"</string>
+    <string name="string_set_wallpaper">"設置墻紙"</string>
+    <string name="string_setting">"設置中..."</string>
+    <string name="string_mute">"靜音"</string>
+    <string name="string_volume">"音量"</string>
+</resources>

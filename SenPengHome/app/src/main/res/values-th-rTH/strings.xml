@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"บ้าน"</string>
+    <string name="app_name_navigation">"การเดินเรือ"</string>
+    <string name="app_name_music">"เพลง"</string>
+    <string name="app_name_radio">"วิทยุ"</string>
+    <string name="app_name_eq">"เสียงประกอบ"</string>
+    <string name="app_name_360">"AVM"</string>
+    <string name="app_name_car_wechat">"รถยนต์ WeChat"</string>
+    <string name="app_name_video">"วีดีโอ"</string>
+    <string name="app_name_photo">"ภาพถ่าย"</string>
+    <string name="app_name_car_life">"Carlife"</string>
+    <string name="app_name_car_play">"CarPlay"</string>
+    <string name="app_name_car_setting">"ข้อมูลรถยนต์"</string>
+    <string name="app_name_settings">"การตั้งค่าระบบ"</string>
+    <string name="app_name_ai_qu">"AiQu"</string>
+    <string name="app_name_qq_music">"QQMusic"</string>
+    <string name="app_name_tingban">"Tingban"</string>
+    <string name="app_name_ximalaya">"XiMaLaYa"</string>
+    <string name="app_name_tencent_video">"TencentVideo"</string>
+    <string name="app_name_ku_wo">"KuWo"</string>
+    <string name="app_name_net_browser">"เบราว์เซอร์"</string>
+    <string name="app_name_aux_in">"AUX IN"</string>
+    <string name="app_name_screen_saver_set">"โปรแกรมรักษาหน้าจอ"</string>
+    <string name="app_name_phone">"โทรศัพท์บลูทู ธ"</string>
+    <string name="app_name_dvr">"DVR"</string>
+    <string name="app_name_google_play">"Google Play"</string>
+    <string name="app_name_youtube">"Youtube"</string>
+    <string name="app_name_chrome">"Chrome"</string>
+    <string name="app_name_es">"ES Browser"</string>
+    <string name="app_name_ktv">"KTV"</string>
+    <string name="app_name_android_auto">"Android Auto"</string>
+    <string name="string_set_wallpaper">"การตั้งค่าภาพพื้นหลัง"</string>
+    <string name="string_setting">"การตั้งค่า ..."</string>
+    <string name="string_mute">"ใบ้"</string>
+    <string name="string_volume">"ปริมาณ"</string>
+</resources>

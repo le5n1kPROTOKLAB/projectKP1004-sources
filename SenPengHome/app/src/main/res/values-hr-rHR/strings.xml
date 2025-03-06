@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"Dom"</string>
+    <string name="app_name_navigation">"navigacija"</string>
+    <string name="app_name_music">"glazba, muzika"</string>
+    <string name="app_name_radio">"Radio"</string>
+    <string name="app_name_eq">"Zvučni efekti"</string>
+    <string name="app_name_360">"AVM"</string>
+    <string name="app_name_car_wechat">"Car WeChat"</string>
+    <string name="app_name_video">"Video"</string>
+    <string name="app_name_photo">"foto"</string>
+    <string name="app_name_car_life">"CarLife"</string>
+    <string name="app_name_car_play">"CarPlay"</string>
+    <string name="app_name_car_setting">"Informacije o autima"</string>
+    <string name="app_name_settings">"Postavke sustava"</string>
+    <string name="app_name_ai_qu">"AiQu"</string>
+    <string name="app_name_qq_music">"QQMusic"</string>
+    <string name="app_name_tingban">"Tingban"</string>
+    <string name="app_name_ximalaya">"XiMaLaYa"</string>
+    <string name="app_name_tencent_video">"TencentVideo"</string>
+    <string name="app_name_ku_wo">"KuWo"</string>
+    <string name="app_name_net_browser">"preglednik"</string>
+    <string name="app_name_aux_in">"AUX IN"</string>
+    <string name="app_name_screen_saver_set">"Čuvar zaslona"</string>
+    <string name="app_name_phone">"Bluetooth telefon"</string>
+    <string name="app_name_dvr">"DVR"</string>
+    <string name="app_name_google_play">"Google Play"</string>
+    <string name="app_name_youtube">"Youtube"</string>
+    <string name="app_name_chrome">"Chrome"</string>
+    <string name="app_name_es">"ES Browser"</string>
+    <string name="app_name_ktv">"KTV"</string>
+    <string name="app_name_android_auto">"Android Auto"</string>
+    <string name="string_set_wallpaper">"Postavke pozadine"</string>
+    <string name="string_setting">"Postavljanje ..."</string>
+    <string name="string_mute">"nijem"</string>
+    <string name="string_volume">"Volumen"</string>
+</resources>

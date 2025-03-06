@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vehicle Information</string>
+    <string name="distribution_box_information">PDU</string>
+</resources>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">"Domov"</string>
+    <string name="app_name_navigation">"Navigacija"</string>
+    <string name="app_name_music">"Glasba"</string>
+    <string name="app_name_radio">"Radio"</string>
+    <string name="app_name_eq">"Zvočni učinki"</string>
+    <string name="app_name_360">"AVM"</string>
+    <string name="app_name_car_wechat">"Car WeChat"</string>
+    <string name="app_name_video">"Video"</string>
+    <string name="app_name_photo">"Fotografija"</string>
+    <string name="app_name_car_life">"CarLife"</string>
+    <string name="app_name_car_play">"CarPlay"</string>
+    <string name="app_name_car_setting">"Podatki o avtomobilu"</string>
+    <string name="app_name_settings">"Sistemske nastavitve"</string>
+    <string name="app_name_ai_qu">"AiQu"</string>
+    <string name="app_name_qq_music">"QQMusic"</string>
+    <string name="app_name_tingban">"Tingban"</string>
+    <string name="app_name_ximalaya">"XiMaLaYa"</string>
+    <string name="app_name_tencent_video">"TencentVideo"</string>
+    <string name="app_name_ku_wo">"KuWo"</string>
+    <string name="app_name_net_browser">"Brskalnik"</string>
+    <string name="app_name_aux_in">"AUX IN"</string>
+    <string name="app_name_screen_saver_set">"Ohranjevalnik zaslona"</string>
+    <string name="app_name_phone">"Telefon Bluetooth"</string>
+    <string name="app_name_dvr">"DVR"</string>
+    <string name="app_name_google_play">"Google Play"</string>
+    <string name="app_name_youtube">"Youtube"</string>
+    <string name="app_name_chrome">"Chrome"</string>
+    <string name="app_name_es">"ES Browser"</string>
+    <string name="app_name_ktv">"KTV"</string>
+    <string name="app_name_android_auto">"Android Auto"</string>
+    <string name="string_set_wallpaper">"Nastavitve ozadja"</string>
+    <string name="string_setting">"Nastavitev ..."</string>
+    <string name="string_mute">"Izklop zvoka"</string>
+    <string name="string_volume">"Zvezek"</string>
+</resources>

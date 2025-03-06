@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Vehicle service</string>
+    <string name="external_storage">External storage</string>
+    <string name="usb_storage">USB storage</string>
+</resources>

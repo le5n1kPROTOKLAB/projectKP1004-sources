@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <storage value="external" />
+    <dbname value="screen_control_service" />
+    <version value="3" />
+    <list>
+        <mapping class="com.senptec.control.record.DbBean" />
+    </list>
+</litepal>
