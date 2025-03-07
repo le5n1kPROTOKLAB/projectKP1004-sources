@@ -2,6 +2,7 @@
 <resources>
     <string name="app_name">"Домой"</string>
     <string name="app_name_navigation">"навигация"</string>
+    <string name="app_name_file_manager">"File Manager"</string>
     <string name="app_name_music">"Музыка"</string>
     <string name="app_name_radio">"Радио"</string>
     <string name="app_name_eq">"Звуковые эффекты"</string>

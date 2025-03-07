@@ -166,6 +166,7 @@ public class CustomDesktop extends FrameLayout implements View.OnLongClickListen
     }
 
     public void resetDesktop(Context context) {
+        Utilities.clearDestopAppList(context);
         List<ShortCut> c_app_info = Utilities.getDesktopAppList(context);
         setShortCutList(c_app_info);
     }

@@ -431,6 +431,7 @@ string app_name_chrome
 string app_name_dvr
 string app_name_eq
 string app_name_es
+string app_name_file_manager
 string app_name_google_play
 string app_name_ktv
 string app_name_ku_wo

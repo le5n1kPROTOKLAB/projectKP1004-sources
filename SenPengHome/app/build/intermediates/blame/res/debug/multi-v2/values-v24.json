@@ -4,7 +4,7 @@
             "outputFile": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v24\\values-v24.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\fc87aebb97c79a43fdd6d2bc9535995e\\res\\values-v24\\values-v24.xml",
+                    "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\79ba7bbf59cc4dd02610baf5e87e9c73\\res\\values-v24\\values-v24.xml",
                     "from": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",

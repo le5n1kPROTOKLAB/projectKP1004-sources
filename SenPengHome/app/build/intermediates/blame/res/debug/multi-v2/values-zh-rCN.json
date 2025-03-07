@@ -4,23 +4,6 @@
             "outputFile": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-zh-rCN\\values-zh-rCN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\values-zh-rCN\\values-zh-rCN.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "100",
-                        "endOffsets": "151"
-                    },
-                    "to": {
-                        "startLines": "36",
-                        "startColumns": "4",
-                        "startOffsets": "1838",
-                        "endColumns": "100",
-                        "endOffsets": "1934"
-                    }
-                },
-                {
                     "source": "F:\\projectMAZ\\SenPengHome\\app\\src\\main\\res\\values-zh-rCN\\strings.xml",
                     "from": {
                         "startLines": "2,7,32,31,15,33,35,34,22,11,12,13,8,28,25,6,29,26,30,20,4,3,21,24,10,16,5,23,14,19,17,9,18,27,38,36,37,39",
@@ -35,6 +18,23 @@
                         "startOffsets": "55,97,145,198,253,302,360,425,472,525,581,637,693,748,801,850,896,944,1004,1051,1101,1149,1204,1261,1311,1359,1412,1460,1521,1574,1632,1682,1730,1783,1939,1984,2040,2092",
                         "endColumns": "41,47,52,54,48,57,64,46,52,55,55,55,54,52,48,45,47,59,46,49,47,54,56,49,47,52,47,60,52,57,49,47,52,54,44,55,51,46",
                         "endOffsets": "92,140,193,248,297,355,420,467,520,576,632,688,743,796,845,891,939,999,1046,1096,1144,1199,1256,1306,1354,1407,1455,1516,1569,1627,1677,1725,1778,1833,1979,2035,2087,2134"
+                    }
+                },
+                {
+                    "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\values-zh-rCN\\values-zh-rCN.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "36",
+                        "startColumns": "4",
+                        "startOffsets": "1838",
+                        "endColumns": "100",
+                        "endOffsets": "1934"
                     }
                 }
             ]

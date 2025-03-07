@@ -4,7 +4,7 @@
             "outputFile": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\values-v21\\values-v21.xml",
+                    "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\fc87aebb97c79a43fdd6d2bc9535995e\\res\\values-v21\\values-v21.xml",
+                    "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\79ba7bbf59cc4dd02610baf5e87e9c73\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,5,8,11",
                         "startColumns": "4,4,4,4",
@@ -42,7 +42,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\values-v21\\values-v21.xml",
+                    "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\values-v21\\values-v21.xml",
                     "from": {
                         "startLines": "2,6",
                         "startColumns": "4,4",

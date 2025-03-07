@@ -8,9 +8,11 @@ import android.widget.FrameLayout;
 import android.widget.GridLayout;
 
 import androidx.annotation.NonNull;
-import androidx.viewpager.widget.PagerAdapter;
-import androidx.viewpager.widget.ViewPager;
+/*import androidx.viewpager.widget.PagerAdapter;
+import androidx.viewpager.widget.ViewPager;*/
 
+import com.android.internal.widget.PagerAdapter;
+import com.android.internal.widget.ViewPager;
 import com.spd.home.R;
 
 import java.util.ArrayList;

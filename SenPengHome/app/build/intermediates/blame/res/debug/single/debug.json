@@ -5,19 +5,19 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_leak_canary_info.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-hdpi-v4\\leak_canary_info.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-hdpi-v4\\leak_canary_info.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_leak_canary_info.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-ldpi-v4\\leak_canary_info.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-ldpi-v4\\leak_canary_info.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_leak_canary_leak.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-xxxhdpi-v4\\leak_canary_leak.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-xxxhdpi-v4\\leak_canary_leak.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
@@ -29,7 +29,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_heap_dumps_screen.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\layout\\leak_canary_heap_dumps_screen.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\layout\\leak_canary_heap_dumps_screen.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg.png.flat",
@@ -53,7 +53,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_heap_analysis_failure_screen.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\layout\\leak_canary_heap_analysis_failure_screen.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\layout\\leak_canary_heap_analysis_failure_screen.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
@@ -65,7 +65,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_leak_canary_leak.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-xhdpi-v4\\leak_canary_leak.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-xhdpi-v4\\leak_canary_leak.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_extends_arrow_down.png.flat",
@@ -77,19 +77,19 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\anim_leak_canary_enter_alpha.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\anim\\leak_canary_enter_alpha.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\anim\\leak_canary_enter_alpha.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_heap_render.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\layout\\leak_canary_heap_render.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\layout\\leak_canary_heap_render.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_leak_canary_info.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-anydpi-v21\\leak_canary_info.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-anydpi-v21\\leak_canary_info.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_app_page_view.xml.flat",
@@ -97,35 +97,35 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\layout\\notification_template_part_chronometer.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi-v4_leak_canary_icon.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\mipmap-xhdpi-v4\\leak_canary_icon.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\mipmap-xhdpi-v4\\leak_canary_icon.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4_leak_canary_icon.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\mipmap-mdpi-v4\\leak_canary_icon.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\mipmap-mdpi-v4\\leak_canary_icon.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\layout-v21\\notification_action.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\layout-v21\\notification_action.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\anim_leak_canary_enter_backward.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\anim\\leak_canary_enter_backward.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\anim\\leak_canary_enter_backward.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leak_canary_count_background.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable\\leak_canary_count_background.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable\\leak_canary_count_background.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_leak_canary_tv_icon.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-anydpi-v24\\leak_canary_tv_icon.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-anydpi-v24\\leak_canary_tv_icon.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_wallpaper_item_layout.xml.flat",
@@ -137,7 +137,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_leak_canary_info.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-xxhdpi-v4\\leak_canary_info.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-xxhdpi-v4\\leak_canary_info.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_volume_icon_media.png.flat",
@@ -157,11 +157,11 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_leak_header.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\layout\\leak_canary_leak_header.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\layout\\leak_canary_leak_header.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_bottom_people.png.flat",
@@ -169,27 +169,27 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_simple_row.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\layout\\leak_canary_simple_row.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\layout\\leak_canary_simple_row.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_leak_canary_leak.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-mdpi-v4\\leak_canary_leak.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-mdpi-v4\\leak_canary_leak.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leak_canary_toast_background.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable\\leak_canary_toast_background.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable\\leak_canary_toast_background.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_ref_row.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\layout\\leak_canary_ref_row.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\layout\\leak_canary_ref_row.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_leak_canary_leak.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-hdpi-v4\\leak_canary_leak.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-hdpi-v4\\leak_canary_leak.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_action.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\fc87aebb97c79a43fdd6d2bc9535995e\\res\\layout\\notification_media_action.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\79ba7bbf59cc4dd02610baf5e87e9c73\\res\\layout\\notification_media_action.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_icon_part_video.png.flat",
@@ -197,11 +197,11 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_leak_canary_info.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-xxxhdpi-v4\\leak_canary_info.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-xxxhdpi-v4\\leak_canary_info.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_leak_canary_tab_selector_ripple.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-v21\\leak_canary_tab_selector_ripple.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-v21\\leak_canary_tab_selector_ripple.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_volume_icon_phone.png.flat",
@@ -217,7 +217,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_about_screen.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\layout\\leak_canary_about_screen.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\layout\\leak_canary_about_screen.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_bg_16.png.flat",
@@ -225,11 +225,11 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_leak_canary_icon_foreground.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-xxhdpi-v4\\leak_canary_icon_foreground.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-xxhdpi-v4\\leak_canary_icon_foreground.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_leak_canary_icon.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-xhdpi-v4\\leak_canary_icon.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-xhdpi-v4\\leak_canary_icon.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
@@ -237,19 +237,19 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_leak_canary_dump.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-xxhdpi-v4\\leak_canary_dump.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-xxhdpi-v4\\leak_canary_dump.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\color_leak_canary_count_text.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\color\\leak_canary_count_text.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\color\\leak_canary_count_text.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_leak_canary_primary_button.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-v21\\leak_canary_primary_button.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-v21\\leak_canary_primary_button.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_icon_part_radio.png.flat",
@@ -261,11 +261,11 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\drawable-v21\\notification_action_background.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\drawable-v21\\notification_action_background.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_window_layout_bt.xml.flat",
@@ -273,7 +273,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_icon_part_setting.png.flat",
@@ -285,15 +285,15 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_leak_canary_leak.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-anydpi-v21\\leak_canary_leak.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-anydpi-v21\\leak_canary_leak.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_leak_canary_dump.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-mdpi-v4\\leak_canary_dump.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-mdpi-v4\\leak_canary_dump.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_leak_canary_tv_icon.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-xhdpi-v4\\leak_canary_tv_icon.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-xhdpi-v4\\leak_canary_tv_icon.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_bg_17.png.flat",
@@ -301,19 +301,19 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_leak_row.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\layout\\leak_canary_leak_row.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\layout\\leak_canary_leak_row.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_media_cancel_action.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\fc87aebb97c79a43fdd6d2bc9535995e\\res\\layout\\notification_media_cancel_action.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\79ba7bbf59cc4dd02610baf5e87e9c73\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\fc87aebb97c79a43fdd6d2bc9535995e\\res\\layout\\notification_template_big_media.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\79ba7bbf59cc4dd02610baf5e87e9c73\\res\\layout\\notification_template_big_media.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_icon_part_apps.png.flat",
@@ -321,7 +321,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_leak_canary_icon.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-anydpi-v24\\leak_canary_icon.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-anydpi-v24\\leak_canary_icon.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wallpaper_live_icon.png.flat",
@@ -337,7 +337,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_leak_canary_icon.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-mdpi-v4\\leak_canary_icon.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-mdpi-v4\\leak_canary_icon.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_bg_06.png.flat",
@@ -349,7 +349,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\layout-v21\\notification_template_icon_group.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\layout-v21\\notification_template_icon_group.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_icon_part_navi.png.flat",
@@ -357,7 +357,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\fc87aebb97c79a43fdd6d2bc9535995e\\res\\layout\\notification_template_big_media_custom.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\79ba7bbf59cc4dd02610baf5e87e9c73\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_bg_00.png.flat",
@@ -365,11 +365,11 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_hprof_explorer.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\layout\\leak_canary_hprof_explorer.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\layout\\leak_canary_hprof_explorer.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_window_icon_usb.png.flat",
@@ -385,7 +385,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_leak_canary_info.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-mdpi-v4\\leak_canary_info.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-mdpi-v4\\leak_canary_info.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_window_layout_volume.xml.flat",
@@ -401,11 +401,11 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_leak_canary_icon_foreground.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-ldpi-v4\\leak_canary_icon_foreground.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-ldpi-v4\\leak_canary_icon_foreground.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\layout\\notification_template_part_time.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\layout\\notification_template_part_time.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_bg_11.png.flat",
@@ -417,11 +417,11 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_leak_canary_dump.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-xhdpi-v4\\leak_canary_dump.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-xhdpi-v4\\leak_canary_dump.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_bg_01.png.flat",
@@ -433,11 +433,11 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_leak_canary_dump.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-anydpi-v21\\leak_canary_dump.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-anydpi-v21\\leak_canary_dump.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_leak_canary_icon_foreground.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-mdpi-v4\\leak_canary_icon_foreground.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-mdpi-v4\\leak_canary_icon_foreground.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_icon_part_360.png.flat",
@@ -445,11 +445,11 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_leak_canary_icon.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-xxhdpi-v4\\leak_canary_icon.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-xxhdpi-v4\\leak_canary_icon.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_bg_03.png.flat",
@@ -457,7 +457,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\drawable\\notification_bg_low.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\drawable\\notification_bg_low.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_wallpaper_main_layout.xml.flat",
@@ -469,11 +469,11 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_heap_dump_toast.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\layout\\leak_canary_heap_dump_toast.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\layout\\leak_canary_heap_dump_toast.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
@@ -481,7 +481,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_leak_canary_tv_icon.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-mdpi-v4\\leak_canary_tv_icon.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-mdpi-v4\\leak_canary_tv_icon.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leaf_04.png.flat",
@@ -489,7 +489,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media_custom.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\fc87aebb97c79a43fdd6d2bc9535995e\\res\\layout\\notification_template_media_custom.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\79ba7bbf59cc4dd02610baf5e87e9c73\\res\\layout\\notification_template_media_custom.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_icon_part_phone.png.flat",
@@ -509,11 +509,11 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_leak_canary_icon_foreground.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-xhdpi-v4\\leak_canary_icon_foreground.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-xhdpi-v4\\leak_canary_icon_foreground.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_leak_canary_tv_icon.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-xxhdpi-v4\\leak_canary_tv_icon.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-xxhdpi-v4\\leak_canary_tv_icon.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_volume_icon_navi.png.flat",
@@ -521,11 +521,11 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_leak_canary_icon.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-ldpi-v4\\leak_canary_icon.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-ldpi-v4\\leak_canary_icon.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\color_leak_canary_bottom_menu.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\color\\leak_canary_bottom_menu.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\color\\leak_canary_bottom_menu.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_window_layout_usb.xml.flat",
@@ -533,7 +533,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi-v4_leak_canary_icon.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\mipmap-hdpi-v4\\leak_canary_icon.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\mipmap-hdpi-v4\\leak_canary_icon.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_icon_part_air_conditioner.png.flat",
@@ -545,7 +545,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_leak_canary_tv_icon.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-ldpi-v4\\leak_canary_tv_icon.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-ldpi-v4\\leak_canary_tv_icon.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
@@ -553,15 +553,15 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_leak_canary_dump.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-hdpi-v4\\leak_canary_dump.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-hdpi-v4\\leak_canary_dump.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_leak_canary_dump.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-ldpi-v4\\leak_canary_dump.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-ldpi-v4\\leak_canary_dump.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_leak_canary_icon.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-hdpi-v4\\leak_canary_icon.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-hdpi-v4\\leak_canary_icon.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_bg_13.png.flat",
@@ -573,11 +573,11 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\fc87aebb97c79a43fdd6d2bc9535995e\\res\\layout\\notification_template_big_media_narrow.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\79ba7bbf59cc4dd02610baf5e87e9c73\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\layout-v21\\notification_action_tombstone.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\layout-v21\\notification_action_tombstone.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leaf_02.png.flat",
@@ -585,15 +585,15 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_leak_canary_icon.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\mipmap-anydpi-v26\\leak_canary_icon.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\mipmap-anydpi-v26\\leak_canary_icon.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_lines_media.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\fc87aebb97c79a43fdd6d2bc9535995e\\res\\layout\\notification_template_lines_media.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\79ba7bbf59cc4dd02610baf5e87e9c73\\res\\layout\\notification_template_lines_media.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\drawable\\notification_tile_bg.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\drawable\\notification_tile_bg.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_desktop_delete.png.flat",
@@ -609,7 +609,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_leak_canary_icon_foreground.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-xxxhdpi-v4\\leak_canary_icon_foreground.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-xxxhdpi-v4\\leak_canary_icon_foreground.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_window_icon_video.png.flat",
@@ -617,11 +617,11 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4_leak_canary_leak.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-ldpi-v4\\leak_canary_leak.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-ldpi-v4\\leak_canary_leak.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_bg_04.png.flat",
@@ -629,7 +629,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_leak_canary_icon_foreground.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-hdpi-v4\\leak_canary_icon_foreground.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-hdpi-v4\\leak_canary_icon_foreground.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_bg_15.png.flat",
@@ -641,19 +641,19 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\anim_leak_canary_enter_forward.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\anim\\leak_canary_enter_forward.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\anim\\leak_canary_enter_forward.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\drawable\\notification_icon_background.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\drawable\\notification_icon_background.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_leak_canary_tv_icon.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-xxxhdpi-v4\\leak_canary_tv_icon.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-xxxhdpi-v4\\leak_canary_tv_icon.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4_leak_canary_icon.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\mipmap-xxhdpi-v4\\leak_canary_icon.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\mipmap-xxhdpi-v4\\leak_canary_icon.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
@@ -661,7 +661,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leak_canary_info_rectangle.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable\\leak_canary_info_rectangle.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable\\leak_canary_info_rectangle.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_temp_fullscreen.xml.flat",
@@ -681,7 +681,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_leak_canary_secondary_button.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-v21\\leak_canary_secondary_button.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-v21\\leak_canary_secondary_button.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_extends_arrow_up.png.flat",
@@ -689,15 +689,15 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\anim_leak_canary_exit_backward.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\anim\\leak_canary_exit_backward.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\anim\\leak_canary_exit_backward.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_narrow_custom.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\fc87aebb97c79a43fdd6d2bc9535995e\\res\\layout\\notification_template_big_media_narrow_custom.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\79ba7bbf59cc4dd02610baf5e87e9c73\\res\\layout\\notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\layout-v21\\notification_template_custom_big.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\layout-v21\\notification_template_custom_big.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_bottom_phone.png.flat",
@@ -705,23 +705,23 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\anim_leak_canary_exit_forward.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\anim\\leak_canary_exit_forward.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\anim\\leak_canary_exit_forward.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4_leak_canary_icon.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\mipmap-xxxhdpi-v4\\leak_canary_icon.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\mipmap-xxxhdpi-v4\\leak_canary_icon.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\drawable\\notification_bg.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\drawable\\notification_bg.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_leak_activity.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\layout\\leak_canary_leak_activity.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\layout\\leak_canary_leak_activity.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_bg_06.png.flat",
@@ -737,7 +737,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_list.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\layout\\leak_canary_list.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\layout\\leak_canary_list.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_icon_part_music.png.flat",
@@ -745,11 +745,11 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_media.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\fc87aebb97c79a43fdd6d2bc9535995e\\res\\layout\\notification_template_media.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\79ba7bbf59cc4dd02610baf5e87e9c73\\res\\layout\\notification_template_media.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_leak_canary_icon_foreground.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-anydpi-v24\\leak_canary_icon_foreground.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-anydpi-v24\\leak_canary_icon_foreground.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_wallpaper_default_icon.png.flat",
@@ -757,7 +757,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\xml_leak_canary_file_paths.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\xml\\leak_canary_file_paths.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\xml\\leak_canary_file_paths.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leaf_01.png.flat",
@@ -765,15 +765,15 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_leak_chips.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\layout\\leak_canary_leak_chips.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\layout\\leak_canary_leak_chips.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_leak_canary_dump.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-xxxhdpi-v4\\leak_canary_dump.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-xxxhdpi-v4\\leak_canary_dump.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_leak_canary_info.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-xhdpi-v4\\leak_canary_info.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-xhdpi-v4\\leak_canary_info.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_text_view.xml.flat",
@@ -781,7 +781,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_leak_screen.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\layout\\leak_canary_leak_screen.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\layout\\leak_canary_leak_screen.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\xml_livewallpapervideo.xml.flat",
@@ -789,7 +789,7 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_leak_canary_tab_background.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-v21\\leak_canary_tab_background.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-v21\\leak_canary_tab_background.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_app_icon_part_screen_saver_set.png.flat",
@@ -801,15 +801,15 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\layout_leak_canary_heap_dump_leak_title.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\layout\\leak_canary_heap_dump_leak_title.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\layout\\leak_canary_heap_dump_leak_title.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_leak_canary_icon.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-xxxhdpi-v4\\leak_canary_icon.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-xxxhdpi-v4\\leak_canary_icon.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_leak_canary_leak.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-xxhdpi-v4\\leak_canary_leak.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-xxhdpi-v4\\leak_canary_leak.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_default_bg_03.png.flat",
@@ -817,19 +817,19 @@
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\956e0ad65e6857d43e03e63385754479\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\c6d7b3fc23cf10be611c67fd56d0aa62\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_leak_canary_gray_fill.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable\\leak_canary_gray_fill.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable\\leak_canary_gray_fill.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_leak_canary_tv_icon.png.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\drawable-hdpi-v4\\leak_canary_tv_icon.png"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\drawable-hdpi-v4\\leak_canary_tv_icon.png"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\anim_leak_canary_exit_alpha.xml.flat",
-        "source": "C:\\Users\\lesnik\\.gradle\\caches\\transforms-2\\files-2.1\\843e95dc1b8ff06ebeaa4156bdfc9609\\res\\anim\\leak_canary_exit_alpha.xml"
+        "source": "F:\\.gradle\\caches\\transforms-2\\files-2.1\\36f3c02f7d98387aa7684d139687f03a\\res\\anim\\leak_canary_exit_alpha.xml"
     },
     {
         "merged": "F:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\res\\merged\\debug\\drawable_icon_bottom_camera.png.flat",

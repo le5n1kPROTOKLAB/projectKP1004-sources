@@ -74,6 +74,7 @@ public final class Utilities {
     public static final int SYSTEM_APP_ID_CAR_INFO = 0xfa00001F;
     public static final int SYSTEM_APP_ID_AIR_CONDITIONER = 0xfa000020;
     public static final int SYSTEM_APP_ID_APPS = 0xfa000021;
+    public static final int SYSTEM_APP_ID_FILE_MANAGER = 0xfa000022;
 
     public static final String TAG = "Launcher.Utilities";
     public static final float PI = 3.14159265357f;
@@ -973,7 +974,7 @@ public final class Utilities {
 //                    c_result = new ShortCut(c_child_app);
 //                }
                 c_app_name = context.getString(R.string.app_name_360);
-                c_child_app = new AppInfo(context, c_app_id, "com.senptec.carvideoapp", "com.senptec.carvideo.MainActivity", c_app_name, R.drawable.app_icon_part_bg_n, R.drawable.app_icon_part_360);
+                c_child_app = new AppInfo(context, c_app_id, "com.spd.avm", null, c_app_name, R.drawable.app_icon_part_bg_n, R.drawable.app_icon_part_360);
                 c_result = new ShortCut(c_child_app);
                 break;
             case SYSTEM_APP_ID_PHONE:
@@ -994,7 +995,7 @@ public final class Utilities {
                 break;
             case SYSTEM_APP_ID_VIDEO:
                 c_app_name = context.getString(R.string.app_name_video);
-                c_child_app = new AppInfo(context, c_app_id, "com.spd.spdmedia", "com.spd.spdmedia.VideoActivity", c_app_name, R.drawable.app_icon_part_bg_n, R.drawable.app_icon_part_video);
+                c_child_app = new AppInfo(context, c_app_id, "org.videolan.vlc", "org.videolan.vlc.gui.MainActivity", c_app_name, R.drawable.app_icon_part_bg_n, R.drawable.app_icon_part_video);
                 c_result = new ShortCut(c_child_app);
 
                 break;
@@ -1085,6 +1086,11 @@ public final class Utilities {
                 c_child_app = new AppInfo(context, c_app_id, "", null, c_app_name, R.drawable.app_icon_part_bg_n, R.drawable.app_icon_part_apps);
                 c_result = new ShortCut(c_child_app);
                 break;
+            case SYSTEM_APP_ID_FILE_MANAGER:
+                c_app_name = context.getString(R.string.app_name_file_manager);
+                c_child_app = new AppInfo(context, c_app_id, "com.cyanogenmod.filemanager", null, c_app_name, R.drawable.app_icon_part_bg_n, R.drawable.app_icon_part_apps);
+                c_result = new ShortCut(c_child_app);
+                break;
         }
         return c_result;
     }
@@ -1092,15 +1098,19 @@ public final class Utilities {
     private static List<ShortCut> getDefaultAppList(Context context) {
         List<ShortCut> c_result_short_cut = new ArrayList<>();
         addList(context, c_result_short_cut, SYSTEM_APP_ID_NAVI);
+        addList(context, c_result_short_cut, SYSTEM_APP_ID_FILE_MANAGER);
         addList(context, c_result_short_cut, SYSTEM_APP_ID_MUSIC);
         addList(context, c_result_short_cut, SYSTEM_APP_ID_RADIO);
         addList(context, c_result_short_cut, SYSTEM_APP_ID_VIDEO);
         addList(context, c_result_short_cut, SYSTEM_APP_ID_360);
+        addList(context, c_result_short_cut, SYSTEM_APP_ID_DVR);
         addList(context, c_result_short_cut, SYSTEM_APP_ID_CAR_SWITCH);
-        //addList(context, c_result_short_cut, SYSTEM_APP_ID_PHONE);
+        addList(context, c_result_short_cut, SYSTEM_APP_ID_PHONE);
         addList(context, c_result_short_cut, SYSTEM_APP_ID_CAR_INFO);
-        //addList(context, c_result_short_cut, SYSTEM_APP_ID_AIR_CONDITIONER);
+        addList(context, c_result_short_cut, SYSTEM_APP_ID_AIR_CONDITIONER);
         addList(context, c_result_short_cut, SYSTEM_APP_ID_APPS);
+
+
         return c_result_short_cut;
     }
 

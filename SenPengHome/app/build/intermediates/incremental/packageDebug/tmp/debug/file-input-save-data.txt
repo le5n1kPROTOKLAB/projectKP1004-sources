@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Mar 04 16:24:17 MSK 2025
+#Fri Mar 07 16:42:18 MSK 2025
 0.base=F\:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out
 0.path=classes.dex
 1.baseType=DIRECTORY

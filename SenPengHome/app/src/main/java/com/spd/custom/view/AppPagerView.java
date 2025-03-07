@@ -4,7 +4,10 @@ import android.content.Context;
 import android.util.AttributeSet;
 import android.util.Log;
 
-import androidx.viewpager.widget.ViewPager;
+/*import androidx.viewpager.widget.ViewPager;
+import android.support.v4.view.ViewPager;*/
+
+import com.android.internal.widget.ViewPager;
 
 import java.util.List;
 

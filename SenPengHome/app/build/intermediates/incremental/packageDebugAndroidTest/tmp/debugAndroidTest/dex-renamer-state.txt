@@ -1,4 +1,4 @@
-#Thu Feb 27 15:51:18 MSK 2025
+#Fri Mar 07 12:08:35 MSK 2025
 base.1=F\:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\out
 path.1=classes.dex
 base.0=F\:\\projectMAZ\\SenPengHome\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeExtDexDebugAndroidTest\\out

@@ -2,6 +2,7 @@
 <resources>
     <string name="app_name">"Home"</string>
     <string name="app_name_navigation">"Navigation"</string>
+    <string name="app_name_file_manager">"File Manager"</string>
     <string name="app_name_music">"Music"</string>
     <string name="app_name_radio">"Radio"</string>
     <string name="app_name_eq">"Sound effects"</string>
